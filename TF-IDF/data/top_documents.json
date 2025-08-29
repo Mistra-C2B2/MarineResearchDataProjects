@@ -1,0 +1,1507 @@
+[
+    {
+        "projectId": "2021-02658_Formas",
+        "projectTitleSv": "Mot samordning av nationell marin forskningsdata f\u00f6r universell interoperabilitet",
+        "projectTitleEn": "Towards coordinating national marine research data for universal interoperability",
+        "projectAbstractSv": "Svensk Nationell Datatj\u00e4nst (SND) och Sveriges Meteorologiska och Hydrologiska Institut (SMHI) har en mycket viktig samh\u00e4llsuppgift att tillg\u00e4ngligg\u00f6ra marina data fr\u00e5n forskning och milj\u00f6\u00f6vervakning inklusive v\u00e4rdefull metadata. SND erbjuder en tj\u00e4nst uppbyggd f\u00f6r att tillg\u00e4ngligg\u00f6ra forskningsdata. Samtidigt har Sverige sedan 2017 ett Nationellt Oceanografiskt Datacenter (NODC), utn\u00e4mnd av International Oceanographic Data Exchange (IODE) under Unesco\u00b4s Intergovernmental Oceanographic Commission (IOC) som f\u00f6rvaltas av SMHI. Som NODC ska SMHI internationellt tillhandah\u00e5lla Sveriges insamlade marina data. I detta \u00e5tagande ing\u00e5r insamling, kvalitetskontroll, processering, sammanst\u00e4llning och arkivering av data som genererats av nationella och internationella projekt och program b\u00e5de fr\u00e5n forskning och milj\u00f6\u00f6vervakning. Idag saknas stora delar av Sveriges marina forskningsdata hos b\u00e5de NODC och SND. Sverige saknar en stark samordning av marina forskningsdata d\u00e4r data finns utspritt i olika lokala databaser, tj\u00e4nster, och inom b\u00e5de den offentliga och privata sektorn. Dessa utspridda datak\u00e4llor av marina forskningsdata \u00e4r allt som oftast inte tillg\u00e4ngliga genom \u00f6ppna data l\u00f6sningar.\u00a0\u00a0Genom samarbetet mellan SND och SMHI f\u00f6resl\u00e5r vi i detta projektet att skapa en nationell samordning av marina forskningsdata och bygga ett n\u00e4tverk av tj\u00e4nster och institut som m\u00e4ter och samlar in dessa data. Som ett f\u00f6rsta proof-of-concept kommer projektet\u00a0 att samarbeta med Svenska Polarforskningssekretariatet som hanterar forskningsdata fr\u00e5n svenska isbrytare. Dessa data \u00e4r speciellt viktigt f\u00f6r vidareanv\u00e4ndning och t\u00e4cker b\u00e5de nationella och internationella (Arktis, Antarktis) vatten. Fokus i detta f\u00f6rberedande projektet \u00e4r att skapa ett nationellt n\u00e4tverk f\u00f6r samarbetet men \u00e4ven att bygga en prototyp f\u00f6r en innovativ teknisk bl\u00e5 l\u00f6sning f\u00f6r samordning av\u00a0 svenska nationella marina forskningsdata, tillg\u00e4ngligg\u00f6ra dessa internationellt och genom detta m\u00f6jligg\u00f6ra att nationella data sprids till anv\u00e4ndare globalt. Genom projektet kommer vi st\u00e4rka det nationella marina data-bidraget till Europeiska och globala data initiativ s\u00e5som EMODnet, Copernicus och FN:s \u00e5rtionde f\u00f6r havsforskning f\u00f6r h\u00e5llbar utveckling (2021- 2030).",
+        "projectAbstractEn": "The project goal is to build a national coordination framework for marine research data. Networks, institutes, including private companies, in Sweden who collect and manage marine research data will be identified and necessary collaborations initiated towards a national data network. A pilot-project will be conducted in which the blue-innovative solution ERDDAP will be installed at the Swedish National Oceanographic Data Center (NODC) managed by SMHI, and configured to serve marine research data from SMHI and SND-network partners servers and repositories. From ERDDAP, the Swedish marine data will become part of the global marine data commons, findable via other ERDDAP servers and EU/global data aggregators, and available for ingestion into visualization, data-aggregation and data-analysis services. The project will strengthen the Swedish\u00a0 national data contribution to\u00a0 global data initiatives and through this to the the UN Decade of Ocean Science for Sustainable Development (short \u201cDecade\u201d) 2021-2030 actions to spread and increase the value of marine data. The project will prepare the foundations for a national marine research data infrastructure, through which institutes and agencies can share data and metadata and ensure it follows the FAIR (Findable, Accessible, Interoperable and Reusable) principles. FAIR is recognized as an international guideline to increase data reuse, data preservation, data integration.",
+        "projectStartDate": "2021-12-01 00:00:00",
+        "projectEndDate": "2023-05-31 00:00:00",
+        "coordinatingOrganisationId": "202100-0696",
+        "coordinatingOrganisationNameSv": "Sveriges meteorologiska och hydrologiska institut",
+        "coordinatingOrganisationNameEn": "Swedish Meteorological and Hydrological Institute",
+        "coordinatingOrganisationTypeOfOrganisationSv": "Stat, regioner, kommuner, f\u00f6rsamlingar",
+        "coordinatingOrganisationTypeOfOrganisationEn": "Governmental",
+        "fundingOrganisationId": "202100-5232",
+        "fundingOrganisationNameSv": "Formas",
+        "fundingOrganisationNameEn": "Formas",
+        "fundingOrganisationTypeOfOrganisationSv": "Stat, regioner, kommuner, f\u00f6rsamlingar",
+        "fundingOrganisationTypeOfOrganisationEn": "Governmental",
+        "fundingsSek": 1492964,
+        "fundingYear": "2021",
+        "fundingStartDate": "2021-01-01",
+        "fundingEndDate": "2022-12-31",
+        "typeOfAwardId": 1,
+        "typeOfAwardDescrSv": "Projektbidrag",
+        "typeOfAwardDescrEn": "Project grant",
+        "updatedDate": null,
+        "loadedDate": "Sep  8 2023  5:13AM",
+        "peopleList": [
+            {
+                "personId": "61891",
+                "fullName": "Patrick Gorringe",
+                "orcId": "",
+                "roleEn": "Co-Investigator",
+                "roleSv": "Projektdeltagare",
+                "gender": "Male"
+            },
+            {
+                "personId": "62210",
+                "fullName": "Markus Lindh",
+                "orcId": "0000-0002-7120-4145",
+                "roleEn": "Principal Investigator",
+                "roleSv": "Projektledare",
+                "gender": "Male"
+            },
+            {
+                "personId": "65653",
+                "fullName": "David Rayner",
+                "orcId": "0000-0003-0545-3634",
+                "roleEn": "Co-Investigator",
+                "roleSv": "Projektdeltagare",
+                "gender": "Male"
+            }
+        ],
+        "scbs": [
+            {
+                "scb5Id": "10299",
+                "scb5NameSv": "Annan data- och informationsvetenskap",
+                "scb5NameEn": "Other Computer and Information Science",
+                "scb3Id": "102",
+                "scb3NameSv": "Data- och informationsvetenskap (Datateknik)\u00a0\u00a0\u00a0 ",
+                "scb3NameEn": "Computer and Information Sciences",
+                "scb1Id": "1",
+                "scb1NameSv": "Naturvetenskap",
+                "scb1NameEn": "Natural Sciences"
+            },
+            {
+                "scb5Id": "10509",
+                "scb5NameSv": "Oceanografi, hydrologi och vattenresurser",
+                "scb5NameEn": "Oceanography, Hydrology and Water Resources",
+                "scb3Id": "105",
+                "scb3NameSv": "Geovetenskap och milj\u00f6vetenskap",
+                "scb3NameEn": "Earth and Related Environmental Sciences",
+                "scb1Id": "1",
+                "scb1NameSv": "Naturvetenskap",
+                "scb1NameEn": "Natural Sciences"
+            }
+        ],
+        "score": 0.40464655375835534
+    },
+    {
+        "projectId": "2020-01048_Formas",
+        "projectTitleSv": "Den marina bioteknikindustrin och en r\u00e4ttvis f\u00f6rvaltning av marina genetiska resurser",
+        "projectTitleEn": "The marine biotechnology industry and equitable governance of marine genetic resources",
+        "projectAbstractSv": "Uppskattningsvis 2,2 miljoner eukaryota arter finns i v\u00e4rldshaven och uppemot tv\u00e5 tredjedelar av dessa arter har fortfarande inte har karakteriserats. Livsmilj\u00f6er i haven pr\u00e4glas ofta av extrema tryck-, v\u00e4rme-, kemi- och ljusf\u00f6rh\u00e5llanden, och m\u00e5nga marina arter har d\u00e4rmed anpassat sin genetiska sammans\u00e4ttning f\u00f6r att kunna leva under dessa extrema f\u00f6rh\u00e5llanden. Dessa anpassningar utg\u00f6r stor del av havens biologiska m\u00e5ngfald och har \u00e4ven v\u00e4ckt stort vetenskapligt och kommersiellt intresse. Marin bioteknik utg\u00f6r en av grundpelarna inom den \"bl\u00e5 ekonomin\" och f\u00f6rutses kunna generera h\u00e5llbar tillv\u00e4xt i l\u00e4nder runt om i v\u00e4rlden. De f\u00f6retag som bedriver merparten av s\u00e5v\u00e4l forskning som kommersiell verksamheter p\u00e5 marina geneteriska resursers har dock sina huvudkontor i ett f\u00e5tal industrialiserade l\u00e4nder. Marin bioteknik st\u00e5r \u00e4ven inf\u00f6r omfattande regel- och styrningsutmaningar, inte minst d\u00e5 tv\u00e5 tredjedelar av haven ligger bortom gr\u00e4nserna f\u00f6r nationell jurisdiktion. En rad internationella f\u00f6rhandlingar fokuserar f\u00f6r n\u00e4rvarande p\u00e5 fr\u00e5gor kring tilltr\u00e4de till marina genetiska resurser och f\u00f6rdelning av nyttan fr\u00e5n dess anv\u00e4ndande. I nul\u00e4get saknar vi dock en f\u00f6rst\u00e5else f\u00f6r hur och huruvida kommersialiseringen av marina genetiska resurser skiljer sig fr\u00e5n andra omr\u00e5den inom bioteknik, b\u00e5de n\u00e4r det g\u00e4ller genfunktioner och ekonomiskt v\u00e4rde. Genom detta forskningsprojekt \u00e4mnar vi \u00f6ka f\u00f6rst\u00e5else f\u00f6r hur marinbioteknik anv\u00e4nds, genom en omfattande utv\u00e4rdering av alla hittills katalogiserade gensekvenser i v\u00e4rldens st\u00f6rsta databas \u00f6ver genetisk information. Vi kommer att kartl\u00e4gga tillv\u00e4xten av offentliga register \u00f6ver marina genetiska resurser j\u00e4mf\u00f6rt med icke-marina. D\u00e4refter kommer vi \u00f6vers\u00e4tta genetiska sekvenser till proteinkonstruktioner f\u00f6r att bed\u00f6ma och j\u00e4mf\u00f6ra funktionella egenskaper hos marina och icke-marina proteiner genom funktionell egenskapsanalys. I den andra delen av projektet kommer vi bed\u00f6ma de marina genetiska resurserna som har varit f\u00f6rem\u00e5l f\u00f6r kommersiellt intresse, baserat p\u00e5 patentans\u00f6kningar. Slutligen kommer vi att g\u00f6ra en omfattande bed\u00f6mning av kostnader och int\u00e4kter som kommersialiseringen av marinbioteknologi f\u00f6r med sig, genom att kombinera intervjuer med litteratur\u00f6versikt. Resultaten fr\u00e5n detta projekt kommer att vara av stort intresse f\u00f6r de m\u00e5nga l\u00e4nder som vill delta i denna pelare av den bl\u00e5 ekonomin, samt f\u00f6r de f\u00f6rhandlare som deltar i de tre p\u00e5g\u00e5ende internationella f\u00f6rhandlingsprocesserna som kommer att ligga till grund f\u00f6r hur det framtida systemet som ska reglera tilltr\u00e4de till marina gener och hur nyttan fr\u00e5n att anv\u00e4nda dessa gener ska f\u00f6rdelas kommer se ut. Denna forskning kommer \u00e4ven att bidra med en empirisk grund som m\u00f6jligg\u00f6r f\u00f6r konkreta diskussioner kring r\u00e4ttvisa och hur effekterna av kapacitetsbyggande insatser och \u00f6verf\u00f6ring av marin teknik p\u00e5 den marina biotekniska sektorn ska \u00f6vervakas.",
+        "projectAbstractEn": "The marine biotechnology sector is a pillar of the Blue Economy, and has generated anti-cancer drugs, nutraceuticals, cosmetics, and enzymes for industrial and biomedical applications. Yet the commercial activity associated with this frontier industry is located almost exclusively within less than a dozen developed countries. Three simultaneous international negotiation processes are currently underway with ambitions to generate greater equity and transparency with regard to marine genetic resources and issues of access and benefit sharing. But current and specific information on the scope, scale and value of this sector is lacking to inform these negotiations. We will conduct ambitious empirical research to better inform these international processes. Specifically, we will: (1) catalogue genetic sequence data associated with marine species in the public domain; (2) characterise the functional traits of the proteins within these sequences; (3) identify which of these sequences have been associated with patents; and (4) collect information about the value of the patented innovations and the associated research and development costs. This will allow us to assess the diversity of marine genetic resources and the distinct range of functional traits compared with non-marine life. A cornerstone of this project will be to inform ongoing policy processes by making all of the data (1-4) available online in an easily accessible, transparent and interactive manner.",
+        "projectStartDate": "2021-01-01 00:00:00",
+        "projectEndDate": "2024-12-31 00:00:00",
+        "coordinatingOrganisationId": "202100-3062",
+        "coordinatingOrganisationNameSv": "Stockholms universitet",
+        "coordinatingOrganisationNameEn": "Stockholm University",
+        "coordinatingOrganisationTypeOfOrganisationSv": "Universitet",
+        "coordinatingOrganisationTypeOfOrganisationEn": "University",
+        "fundingOrganisationId": "202100-5232",
+        "fundingOrganisationNameSv": "Formas",
+        "fundingOrganisationNameEn": "Formas",
+        "fundingOrganisationTypeOfOrganisationSv": "Stat, regioner, kommuner, f\u00f6rsamlingar",
+        "fundingOrganisationTypeOfOrganisationEn": "Governmental",
+        "fundingsSek": 3996344,
+        "fundingYear": "2021",
+        "fundingStartDate": "2021-01-01",
+        "fundingEndDate": "2024-12-31",
+        "typeOfAwardId": 1,
+        "typeOfAwardDescrSv": "Projektbidrag",
+        "typeOfAwardDescrEn": "Project grant",
+        "updatedDate": null,
+        "loadedDate": "Sep  8 2023  5:13AM",
+        "peopleList": [
+            {
+                "personId": "52252",
+                "fullName": "Henrik \u00d6sterblom",
+                "orcId": "0000-0002-1913-5197",
+                "roleEn": "Co-Investigator",
+                "roleSv": "Projektdeltagare",
+                "gender": "Male"
+            },
+            {
+                "personId": "71299",
+                "fullName": "Jean-Baptiste Jouffray",
+                "orcId": "0000-0002-4105-6372",
+                "roleEn": "Co-Investigator",
+                "roleSv": "Projektdeltagare",
+                "gender": "Male"
+            },
+            {
+                "personId": "68905",
+                "fullName": "Colette Wabnitz",
+                "orcId": "0000-0002-5076-9163",
+                "roleEn": "Co-Investigator",
+                "roleSv": "Projektdeltagare",
+                "gender": "Female"
+            },
+            {
+                "personId": "53083",
+                "fullName": "Robert Blasiak",
+                "orcId": "0000-0002-0888-0159",
+                "roleEn": "Principal Investigator",
+                "roleSv": "Projektledare",
+                "gender": "Male"
+            },
+            {
+                "personId": "70615",
+                "fullName": "Peter J\u00f6rgensen",
+                "orcId": "0000-0002-2621-378X",
+                "roleEn": "Co-Investigator",
+                "roleSv": "Projektdeltagare",
+                "gender": "Male"
+            }
+        ],
+        "scbs": [
+            {
+                "scb5Id": "10609",
+                "scb5NameSv": "Genetik",
+                "scb5NameEn": "Genetics",
+                "scb3Id": "106",
+                "scb3NameSv": "Biologi (Medicinska till\u00e4mpningar under 3 och lantbruksvetenskapliga under 4)",
+                "scb3NameEn": "Biological Sciences\u00a0\u00a0(Medical to be 3 and Agricultural to be 4)",
+                "scb1Id": "1",
+                "scb1NameSv": "Naturvetenskap",
+                "scb1NameEn": "Natural Sciences"
+            },
+            {
+                "scb5Id": "10611",
+                "scb5NameSv": "Ekologi",
+                "scb5NameEn": "Ecology",
+                "scb3Id": "106",
+                "scb3NameSv": "Biologi (Medicinska till\u00e4mpningar under 3 och lantbruksvetenskapliga under 4)",
+                "scb3NameEn": "Biological Sciences\u00a0\u00a0(Medical to be 3 and Agricultural to be 4)",
+                "scb1Id": "1",
+                "scb1NameSv": "Naturvetenskap",
+                "scb1NameEn": "Natural Sciences"
+            },
+            {
+                "scb5Id": "20999",
+                "scb5NameSv": "Annan industriell bioteknik",
+                "scb5NameEn": "Other Industrial Biotechnology",
+                "scb3Id": "209",
+                "scb3NameSv": "Industriell bioteknik",
+                "scb3NameEn": "Industrial Biotechnology",
+                "scb1Id": "2",
+                "scb1NameSv": "Teknik",
+                "scb1NameEn": "Engineering and Technology"
+            }
+        ],
+        "score": 0.16813447760116743
+    },
+    {
+        "projectId": "2021-02639_Formas",
+        "projectTitleSv": "Innovativ teknologi f\u00f6r h\u00e5llbar f\u00f6rvaltning av komplexa marina ekosystem",
+        "projectTitleEn": "Innovative technology for sustainable management of complex marine ecosystems",
+        "projectAbstractSv": "En h\u00e5llbar f\u00f6rvaltning av marina ekosystem kr\u00e4ver kunskap f\u00f6r v\u00e4l underbyggda beslut. Den allt snabbare f\u00f6r\u00e4ndringstakten i b\u00e5de ekosystem och m\u00e4nskligt nyttjande utg\u00f6r emellertid en utmaning f\u00f6r traditionella metoder att samla in, analysera och tillg\u00e4ngligg\u00f6ra relevant och aktuell kunskap. Inte minst klimatf\u00f6r\u00e4ndringarna g\u00f6r att f\u00f6ruts\u00e4ttningarna f\u00f6r de ekosystem och naturv\u00e4rden vi satt oss att f\u00f6rvalta \u00e4r under st\u00e4ndig f\u00f6r\u00e4ndring.\u00a0Detta planeringsprojekt bygger p\u00e5 ansatsen att nya teknologier kan vara en viktig del i omst\u00e4llningen till en ny form av kunskapsbaserad naturresursf\u00f6rvaltning. I projektet kommer behovs\u00e4garen L\u00e4nsstyrelsen i Gotlands l\u00e4n tillsammans med projektledaren Sveriges lantbruksuniversitet att utveckla en modell d\u00e4r f\u00f6rvaltningens kunskapsbehov tillgodoses genom automatiserade system f\u00f6r datainsamling, analys med Artificiell Intelligens (AI), samt tillg\u00e4ngligg\u00f6rande av kunskap och data p\u00e5 digitala plattformar. Med grund i redan genomf\u00f6rda pilotstudier om nya tekniksystem f\u00f6r datainsamling (miniatyrdataloggers, seglande dr\u00f6nare och kamera\u00f6vervakning) kommer ett sammanh\u00e5llet kunskapsf\u00f6rs\u00f6rjningssystem att utvecklas, d\u00e4r behovs\u00e4garnas behov av aktuell och detaljerad kunskap st\u00e5r i fokus.\u00a0Projektet omfattar tre delstudier. I delstudie (1) genomf\u00f6rs en omv\u00e4rldsanalys av framtida kunskapsbehov. Denna delstudie syftar till att besvara f\u00f6ljande fr\u00e5gor: Vad beh\u00f6ver vi veta f\u00f6r att i framtiden kunna h\u00e5llbart f\u00f6rvalta marina naturresurser? Vilka \u00e4r de relevanta akt\u00f6rerna/behovs\u00e4garna f\u00f6r denna kunskap? Delstudie (2) syftar till att identifiera legala och etiska aspekter kopplat till autonom datainsamling och AI.\u00a0Studien syftar till att besvara fr\u00e5gor kring vilka nationella och internationella regelverk vi beh\u00f6ver ta h\u00e4nsyn till och vilka intressenter vi beh\u00f6ver informera och/eller ta h\u00e4nsyn till i ett genomf\u00f6randeprojekt. I delstudie (3) kommer vi att planl\u00e4gga ett fullskaligt AI-drivet program f\u00f6r datainsamling, analys och tillg\u00e4ngligg\u00f6rande av marina ekosystemdata.\u00a0Delstudien kommer att besvara f\u00f6ljande fr\u00e5gor: Vilka typer av m\u00e4tplattformar och sensorer kan ge den information vi beh\u00f6ver f\u00f6r att tillgodose v\u00e5ra kunskapsbehov? Vilka kompetenser beh\u00f6vs f\u00f6r att iscens\u00e4tta ett program f\u00f6r att samla in denna information? Vilken typ av infrastruktur beh\u00f6vs f\u00f6r datalagring, dataanalys och tillg\u00e4ngligg\u00f6rande av kunskap? Finns befintliga plattformar f\u00f6r datalagring, analys och datatillg\u00e4nglighet som vi kan dra nytta av?\u00a0Projektet kommer att genomf\u00f6ras av behovs\u00e4gare (L\u00e4nsstyrelsen i Gotlands l\u00e4n) och projektledare (Sveriges lantbruksuniversitet) i t\u00e4tt samarbete med AI Sweden, ett forskningscentrum i G\u00f6teborg inriktat mot en storskalig anv\u00e4ndning av Artificiell Intelligens i samh\u00e4llet. SLU och AI Sweden samarbetar redan kring datalagring och utveckling av algoritmer f\u00f6r kunskapsinh\u00e4mtning om marina ekosystem.\u00a0Projektet kommer att etablera ett n\u00e4tverk av akt\u00f6rer relevanta f\u00f6r ett storskaligt genomf\u00f6randeprojekt i omr\u00e5det runt Gotland. Projektet kommer \u00e4ven att innefatta f\u00f6rslag p\u00e5 en potentiell uppskalning av konceptet till andra omr\u00e5den och med andra kunskapsbehov.",
+        "projectAbstractEn": "Sustainable ocean management requires knowledge for well grounded decisions. However, rapid changes in ecosystems and human activities constitute an important challenge to traditional ways of collecting, analyzing and distributing timely and relevant knowledge. This project builds on the notion that new technologies can be an important part in the transition towards a knowledge-intensive natural resource management. In this project, the problem owner, the County Administrative Board of Gotland, together with the academic partner, Swedish University of Agricultural Sciences (SLU), will develop a model where future knowledge requirements for marine ecosystem management are fulfilled through automated systems for marine data collection, analyses using Artificial Intelligence (AI) and knowledge sharing using digital platforms. The project builds on previously implemented pilot studies of data collection systems including miniature data loggers, sailing drones and automatized video monitoring. The project includes three studies: (1) Mapping of future knowledge requirements, (2) Identification of legal and ethical aspects, and (3) Planning of an AI-driven knowledge generation program. The project will establish a network of actors relevant for an implementation project in the area around Gotland. The project will also include planning of a potential upscaling of the concept for other areas and knowledge requirements.",
+        "projectStartDate": "2021-12-01 00:00:00",
+        "projectEndDate": "2023-05-31 00:00:00",
+        "coordinatingOrganisationId": "202100-2817",
+        "coordinatingOrganisationNameSv": "Sveriges lantbruksuniversitet",
+        "coordinatingOrganisationNameEn": "Swedish University of Agricultural Sciences",
+        "coordinatingOrganisationTypeOfOrganisationSv": "Universitet",
+        "coordinatingOrganisationTypeOfOrganisationEn": "University",
+        "fundingOrganisationId": "202100-5232",
+        "fundingOrganisationNameSv": "Formas",
+        "fundingOrganisationNameEn": "Formas",
+        "fundingOrganisationTypeOfOrganisationSv": "Stat, regioner, kommuner, f\u00f6rsamlingar",
+        "fundingOrganisationTypeOfOrganisationEn": "Governmental",
+        "fundingsSek": 1457150,
+        "fundingYear": "2021",
+        "fundingStartDate": "2021-01-01",
+        "fundingEndDate": "2022-12-31",
+        "typeOfAwardId": 1,
+        "typeOfAwardDescrSv": "Projektbidrag",
+        "typeOfAwardDescrEn": "Project grant",
+        "updatedDate": null,
+        "loadedDate": "Sep  8 2023  5:13AM",
+        "peopleList": [
+            {
+                "personId": "53898",
+                "fullName": "Jonas Hentati Sundberg",
+                "orcId": "0000-0002-3201-9262",
+                "roleEn": "Principal Investigator",
+                "roleSv": "Projektledare",
+                "gender": "Male"
+            }
+        ],
+        "scbs": [
+            {
+                "scb5Id": "10799",
+                "scb5NameSv": "\u00d6vrig annan naturvetenskap",
+                "scb5NameEn": "Other Natural Sciences not elsewhere specified",
+                "scb3Id": "107",
+                "scb3NameSv": "Annan naturvetenskap",
+                "scb3NameEn": "Other Natural Sciences ",
+                "scb1Id": "1",
+                "scb1NameSv": "Naturvetenskap",
+                "scb1NameEn": "Natural Sciences"
+            }
+        ],
+        "score": 0.1422748804412465
+    },
+    {
+        "projectId": "2018-04685_VR",
+        "projectTitleSv": "S\u00e4songsv\u00e4xlingar i sympatiska och pelagiska mikrobiom och deras metaboliska funktioner i centrala Norra ishavet med tonvikt p\u00e5 kol-och kv\u00e4vecykeln",
+        "projectTitleEn": "Uncovering the seasonality of sympagic and pelagic microbiomes and their metabolic functions in the Central Arctic Ocean with emphasis on carbon and nitrogen cycling",
+        "projectAbstractSv": "F\u00f6r att kunna f\u00f6rst\u00e5 livets alla dimensioner beh\u00f6ver vi studera genernas funktion hela v\u00e4gen upp till ekosystemniv\u00e5 och biogeokemiska cykler (jordens kretslopp av grund\u00e4mnen och molekyler). Generna uppstod och utvecklades sida vid sida med dessa biogeokemiska cykler som drivs av mikrober, encelliga organismer som bakterier, ark\u00e9er och mikroalger. En stor utmaning f\u00f6r forskningen under de kommande decennierna blir att f\u00f6rst\u00e5 hur dessa system samverkar och att identifiera vilka processer som styr p\u00e5 b\u00e5de molekyl och global niv\u00e5.I detta forskningsprojekt vill vi delta i en \u00e5rsl\u00e5ng expedition i centrala delen av Norra Ishavet, \"MOSAiC\" f\u00f6r att kartl\u00e4gga mikrobernas gener och utr\u00f6na vilka gener som \u00e4r aktiva i grund\u00e4mnenas och molekylernas kretslopp p\u00e5 cellniv\u00e5. I grunden handlar det om hur mikroberna producerar sin energi f\u00f6r att \u00f6verleva och vilka \u00e4mnen de tar upp fr\u00e5n och uts\u00f6ndrar till sin omgivning. Den centrala delen av Norra Ishavet - st\u00f6rre \u00e4n Medelhavet - \u00e4r en stor vit fl\u00e4ck p\u00e5 jordens karta i tv\u00e5 bem\u00e4rkelser: omr\u00e5det\u00a0\u00e4r t\u00e4ckt med havsis och vi vet n\u00e4stan ingenting om vilka mikroberna som lever d\u00e4r och hur det kan \u00f6verleva de extrema f\u00f6rh\u00e5llandena d\u00e4r. Centrala Norra Ishavet \u00e4r sv\u00e5rtillg\u00e4ngligt f\u00f6r \u00e5rovtagning (det beh\u00f6vs en mycket stark isbrytare) och tidigare mikrobiella studier har endast varit m\u00f6jliga p\u00e5 sommaren. \u00a0Centrala Norra Ishavet \u00e4r ofta i fokus n\u00e4r det g\u00e4ller klimatf\u00f6r\u00e4ndringar eftersom det v\u00e4rms upp fortare \u00e4n andra delar av jordklotet och sj\u00e4lv p\u00e5verkar centralarktis ocks\u00e5 det globala klimatet.Den tyska isbrytaren Polarstern kommer att frysas in i isen vid Sibirien i september 2019 och kommer enligt ber\u00e4kningarna ur isen i september 2020 i Svalbardsomr\u00e5det genom att f\u00f6lja med den naturliga transpol\u00e4ra transporten av havsisarna. Under denna expedition vill\u00a0vi - tillsammans med en stor grupp internationella forskare - ta prov fr\u00e5n havsis och havsvatten f\u00f6r att analysera alla aktiva generna i mikroberna i proven. Detta kommer att leda till m\u00e5nga nya uppt\u00e4ckter n\u00e4r det g\u00e4ller mikrobiella metaboliska processer. F\u00f6r f\u00f6rsta g\u00e5ngen kan vi nu kartl\u00e4gga vad som h\u00e4nder under ett helt \u00e5r, inklusive \"polarnatten\" den 6 m\u00e5nader l\u00e5nga vintern d\u00e5 solen inte g\u00e5r upp alls och lufttemperaturen \u00e4r i genomsnitt -40 oC. P\u00e5 sommaren g\u00e5r solen inte ner under dygnet och det \u00e4r ungef\u00e4r nollgradigt i luften. Dessa extrema f\u00f6rh\u00e5llanden, speciellt p\u00e5 vintern, har stor p\u00e5verkan p\u00e5 vilka mikrober som kan leva d\u00e4r och deras metaboliska funktioner. Havsisen i Arktis minskar pga den globala uppv\u00e4rmningen, vilket leder till mer sm\u00e4ltvatten p\u00e5, i och under havsisen, och det skapar nya livsutrymmen f\u00f6r mikroberna. Detta \u00e4r en aspekt vi kommer att studera under sommaren.Det som ocks\u00e5 utm\u00e4rker centrala Norra Ishavet \u00e4r att det \u00e4r extremt n\u00e4ringsfattigt pga att dert ligger\u00a0l\u00e5ngt fr\u00e5n de Arktiska kusterna, dvs endast sm\u00e5 m\u00e4ngder kv\u00e4ve och fosfor \u00e4r tillg\u00e4ngliga f\u00f6r mikroberna. Vi vet att det f\u00f6r mikrober finns alternativa v\u00e4gar \u00e4n de vanliga f\u00f6r att komma \u00e5t n\u00e4ring. De har till exempel utvecklat gener som styr enzymsystem f\u00f6r att kunna ta upp kv\u00e4ve fr\u00e5n kv\u00e4vgas (kv\u00e4vefixering) och f\u00f6r att kunna anv\u00e4nda urea f\u00f6r ammoniumoxidation, koldioxidupptag och energiproduktion. V\u00e5ra tidigare studier har p\u00e5visat att det finns kv\u00e4vefixering i centrala Norra Ishavet under sommaren, samt anv\u00e4ndning av urea i Beauforthavet (ett Aktiskt kontinentalhav). Genom forskningsprojektet kommer vi att kunna utr\u00f6na hur viktiga dessa processer \u00e4r under \u00e5ret, i olika ishabitat (olika sorters havsis, och p\u00e5 sommaren \u00e4ven i sm\u00e4ltvatten) och i havsvatten fr\u00e5n ytan ner till 4000 m djup. Vi kommer att utf\u00f6ra experiment ombord Polarstern d\u00e4r vi m\u00e4ter upptag av kol och kv\u00e4ve i mikroberna och samtidigt specifikt f\u00f6ljer vilka gener som uttrycks, b\u00e5de n\u00e4r det g\u00e4ller hela det mikrobiella samh\u00e4llet (metatranskriptomik) och i enskilda celler (single-cell genomik). V\u00e5ra resultat kan vi sedan koppla till andra forskares m\u00e4tningar av kol och kv\u00e4vefl\u00f6den i ekosystemet och till slut till olika",
+        "projectAbstractEn": "This research project will\u00a0complement existing knowledge on the global marine microbiome with data from the Earth\u00b4s least known large marine ecosystem, the permanently ice-covered Central Arctic Ocean (CAO). This includes not only metagenomic mapping of the full collection of genes in the microbial communities living in the different sympagic (ice-associated) and pelagic (down to 4000 m deep) microhabitats in the CAO, but also analysing gene expression, both in the field and during incubation experiments, and to relate the results to biogeochemical cycling and modeling. In collaboration with a large group of international scientists we will for the first time reveal which metabolic processes take place in the CAO during the half-year long polar night and we will be able to predict how the microbial summer metabolism is changing in response to global warming in the freshwater and brackish microbial niches that expand with the melting of the sea ice. In a smaller international research group we will particularly target C and N cycling and, partly experimentally, test two hypotheses: (a) that diazotrophy (biological N2-fixation) is a significant source of new nitrogen to the ultra-oligotrophic CAO marine ecosystem throughout the year, and (b) that urea is an alternative substrate for ammonium oxidation and chemoautotrophic CO2\u00a0fixation in the CAO, especially in winter and at low ammonium availability.",
+        "projectStartDate": "2019-01-01 00:00:00",
+        "projectEndDate": "2022-12-31 00:00:00",
+        "coordinatingOrganisationId": "202100-3062",
+        "coordinatingOrganisationNameSv": "Stockholms universitet",
+        "coordinatingOrganisationNameEn": "Stockholm University",
+        "coordinatingOrganisationTypeOfOrganisationSv": "Universitet",
+        "coordinatingOrganisationTypeOfOrganisationEn": "University",
+        "fundingOrganisationId": "202100-5208",
+        "fundingOrganisationNameSv": "Vetenskapsr\u00e5det",
+        "fundingOrganisationNameEn": "Swedish Research Council",
+        "fundingOrganisationTypeOfOrganisationSv": "Stat, regioner, kommuner, f\u00f6rsamlingar",
+        "fundingOrganisationTypeOfOrganisationEn": "Governmental",
+        "fundingsSek": 3502000,
+        "fundingYear": "2019",
+        "fundingStartDate": "2019-01-01",
+        "fundingEndDate": "2022-12-31",
+        "typeOfAwardId": 1,
+        "typeOfAwardDescrSv": "Projektbidrag",
+        "typeOfAwardDescrEn": "Project grant",
+        "updatedDate": null,
+        "loadedDate": "Sep  8 2023  5:12AM",
+        "peopleList": [
+            {
+                "personId": "66483",
+                "fullName": "Stefan Bertilsson",
+                "orcId": "0000-0002-4265-1835",
+                "roleEn": "Co-Investigator",
+                "roleSv": "Projektdeltagare",
+                "gender": "Male"
+            },
+            {
+                "personId": "57044",
+                "fullName": "Pauline Snoeijs Leijonmalm",
+                "orcId": "0000-0002-4544-2668",
+                "roleEn": "Principal Investigator",
+                "roleSv": "Projektledare",
+                "gender": "Female"
+            }
+        ],
+        "scbs": [
+            {
+                "scb5Id": "10611",
+                "scb5NameSv": "Ekologi",
+                "scb5NameEn": "Ecology",
+                "scb3Id": "106",
+                "scb3NameSv": "Biologi (Medicinska till\u00e4mpningar under 3 och lantbruksvetenskapliga under 4)",
+                "scb3NameEn": "Biological Sciences\u00a0\u00a0(Medical to be 3 and Agricultural to be 4)",
+                "scb1Id": "1",
+                "scb1NameSv": "Naturvetenskap",
+                "scb1NameEn": "Natural Sciences"
+            }
+        ],
+        "score": 0.1322276890589195
+    },
+    {
+        "projectId": "2021-03718_VR",
+        "projectTitleSv": "Drivkrafterna och konsekvenser av parasitiska protozoer i planktoniska n\u00e4ringsv\u00e4var",
+        "projectTitleEn": "Drivers and functions of protist parasites in plankton food webs",
+        "projectAbstractSv": "Parasitism spelar en viktig roll f\u00f6r transporten av kol i marina n\u00e4ringsv\u00e4var. Trots at parasitism hos djurplankton \u00e4r mycket vanligt f\u00f6rekommande finns otillr\u00e4cklig kunskap om v\u00e4rd-parasitinteraktioner hos djurplankton, fr\u00e4mst eftersom att parasiterna \u00e4r sv\u00e5ra att uppt\u00e4cka p\u00e5 grund av sin ringa storlek och mestadels finns g\u00f6mda inne i sina v\u00e4rdar och \u00e4r f\u00f6ljaktligen ofta f\u00f6rbisedda. Trots detta visar nya observationer p\u00e5 ett stort antal parasitiska dinoflagellater som dominer interaktionerna med djurplankton i v\u00e4rldshaven. H\u00e4r \u00e4r ett f\u00f6rslag p\u00e5 att fr\u00e4mja kunskapen om denna utbredda parasitism mellan planktoniska kr\u00e4ftdjur och parasitiska dinoflagellater. I havet fyller djurplankton flera nyckelfunktioner genom att koncentrera de n\u00e4rings\u00e4mnen som produceras av v\u00e4xtplankton och som ytterst uppr\u00e4tth\u00e5ller den breda m\u00e5ngfald av marina organismer och som genom bete kontrollerar omfattningen av algblomningar. Parasitiska dinoflagellater \u00e4r artrika och utbredda och har troligen flertalet nyckelfunktioner som avg\u00f6r djurplanktonens populationsstruktur. Hur dessa tv\u00e5 interagerar har global betydelse f\u00f6r transport av energi och f\u00f6r kolets kretslopp.H\u00e4r st\u00e4ller vi den komplexa och v\u00e4sentliga fr\u00e5gan om hur parasiter p\u00e5 djurplankton formar marina n\u00e4ringsv\u00e4var. F\u00f6r att svara p\u00e5 detta m\u00e5ste projektf\u00f6rslaget uppn\u00e5 f\u00f6ljande m\u00e5l:1) Avg\u00f6ra vad som \u00e4r f\u00f6ruts\u00e4ttningarna och drivkrafterna bakom infektion av djurplankton.2) Avg\u00f6ra hur infektionen av parasiter p\u00e5verkar djurplanktonens f\u00f6rm\u00e5ga till \u00f6verlevnad och reproduktion.3) Unders\u00f6ka hur n\u00e4ringsfl\u00f6den mellan djurplankton och plankton\u00e4tande fisk p\u00e5verkas av parasitism p\u00e5 djurplankton under olika milj\u00f6scenarier.V\u00e5r \u00f6vergripande hypotes \u00e4r att parasiter, s\u00e5som dinoflagellater, \u00e4r viktiga akt\u00f6rer f\u00f6r att reglera populationsstrukturen hos djurplankton och \u00e4r \u00a0avg\u00f6rande f\u00f6r dess funktion i ekosystemet.Som ett tidigare oanv\u00e4nt bidrag f\u00f6resl\u00e5r vi studier baserade p\u00e5 DNA-str\u00e4ckkodning (metabarcoding) i kombination med mikroskopidata fr\u00e5n prover insamlade \u00f6ver \u00d6stersj\u00f6ns milj\u00f6gradient f\u00f6r att utforska de ekologiska f\u00f6ruts\u00e4ttningarna f\u00f6r parasiterna och avt\u00e4cka parasitismens underliggande mekanismer. Ett kontrollerat infektionsexperiment kommer att bidra med information om hur kr\u00e4ftdjuren p\u00e5verkas av parasiterna och om infektionen underl\u00e4ttas av giftiga algblomningar. Kunskapen vi f\u00e5r fram kommer att integreras i n\u00e4tverksmodeller f\u00f6r att kvantifiera parasiternas roll i den pelagiska n\u00e4ringsv\u00e4ven och anv\u00e4ndas f\u00f6r att f\u00f6ruts\u00e4ga parasitismens dynamik, n\u00e5got som \u00e4r av betydelse f\u00f6r h\u00e5llbart fiske och f\u00f6r att f\u00f6rebygga algblomningar. Resultaten \u00e4r av stor betydelse f\u00f6r att kunna f\u00f6ruts\u00e4ga hur milj\u00f6f\u00f6r\u00e4ndringar kommer att p\u00e5verka parasitutbrott och d\u00e4rmed energifl\u00f6det i marina system. Dessutom \u00e4r det m\u00f6jligt att m\u00e5nga av de grundl\u00e4ggande processerna som f\u00f6rekommer i djurplanktonparasitism \u00e4ven kan fungera som modell f\u00f6r liknande processer i andra symbiotiska system som involverar mikroorganismer.",
+        "projectAbstractEn": "Parasitic symbionts play a major role in the functioning and equilibrium of carbon flow in marine food webs. But the extent and strength of zooplankton parasites are still poorly known, mainly because they are hard to detect, often hidden and consequently frequently overseen. Yet, recent observations uncovered a large number of parasitic dinoflagellates in the global ocean that often dominate interactions with zooplankton. Here, we propose to advance knowledge in a widespread parasitic interaction between crustacean zooplankton that perform key ecosystem functions, and parasitic dinoflagellates that structure marine pelagic food webs. As a novel contribution, we propose studies based on metabarcoding and microscopy data from field collected samples across the Baltic Sea environmental gradient to detect drivers of zooplankton parasite interactions, uncover the underlying mechanisms and host range of interactions. An infection laboratory experiments will provide crucial information about the fitness consequences for copepod hosts and how infections are facilitated by harmful algal blooms. This knowledge will be integrated in network models to quantify the structuring role of parasites in pelagic food webs and used to predict zooplankton infections and dynamics, which is of relevance for sustainable fisheries and prevention of algal blooms. These results are of great importance to predict how environmental change will affect disease outbreak and energy flow in marine systems.",
+        "projectStartDate": "2022-01-01 00:00:00",
+        "projectEndDate": "2025-12-31 00:00:00",
+        "coordinatingOrganisationId": "202100-3062",
+        "coordinatingOrganisationNameSv": "Stockholms universitet",
+        "coordinatingOrganisationNameEn": "Stockholm University",
+        "coordinatingOrganisationTypeOfOrganisationSv": "Universitet",
+        "coordinatingOrganisationTypeOfOrganisationEn": "University",
+        "fundingOrganisationId": "202100-5208",
+        "fundingOrganisationNameSv": "Vetenskapsr\u00e5det",
+        "fundingOrganisationNameEn": "Swedish Research Council",
+        "fundingOrganisationTypeOfOrganisationSv": "Stat, regioner, kommuner, f\u00f6rsamlingar",
+        "fundingOrganisationTypeOfOrganisationEn": "Governmental",
+        "fundingsSek": 3600000,
+        "fundingYear": "2022",
+        "fundingStartDate": "2022-01-01",
+        "fundingEndDate": "2025-12-31",
+        "typeOfAwardId": 1,
+        "typeOfAwardDescrSv": "Projektbidrag",
+        "typeOfAwardDescrEn": "Project grant",
+        "updatedDate": null,
+        "loadedDate": "Sep  8 2023  5:12AM",
+        "peopleList": [
+            {
+                "personId": "62319",
+                "fullName": "Monika Winder",
+                "orcId": "0000-0001-9467-3035",
+                "roleEn": "Principal Investigator",
+                "roleSv": "Projektledare",
+                "gender": "Female"
+            },
+            {
+                "personId": "65411",
+                "fullName": "Sarahi Garcia",
+                "orcId": "0000-0002-8622-0308",
+                "roleEn": "Co-Investigator",
+                "roleSv": "Projektdeltagare",
+                "gender": "Female"
+            }
+        ],
+        "scbs": [
+            {
+                "scb5Id": "10502",
+                "scb5NameSv": "Milj\u00f6vetenskap",
+                "scb5NameEn": "Environmental Sciences",
+                "scb3Id": "105",
+                "scb3NameSv": "Geovetenskap och milj\u00f6vetenskap",
+                "scb3NameEn": "Earth and Related Environmental Sciences",
+                "scb1Id": "1",
+                "scb1NameSv": "Naturvetenskap",
+                "scb1NameEn": "Natural Sciences"
+            },
+            {
+                "scb5Id": "10509",
+                "scb5NameSv": "Oceanografi, hydrologi och vattenresurser",
+                "scb5NameEn": "Oceanography, Hydrology and Water Resources",
+                "scb3Id": "105",
+                "scb3NameSv": "Geovetenskap och milj\u00f6vetenskap",
+                "scb3NameEn": "Earth and Related Environmental Sciences",
+                "scb1Id": "1",
+                "scb1NameSv": "Naturvetenskap",
+                "scb1NameEn": "Natural Sciences"
+            }
+        ],
+        "score": 0.12161086730966321
+    },
+    {
+        "projectId": "2018-01003_Formas",
+        "projectTitleSv": "Stoppa biodiversitetsf\u00f6rlusten genom f\u00f6rb\u00e4ttrad sp\u00e5rning av hotade evertebrater",
+        "projectTitleEn": "End biodiversity loss through improved tracking of threatened invertebrates",
+        "projectAbstractSv": "V\u00e4rldens biologiska m\u00e5ngfald minskar i allt snabbare takt. Antalet utd\u00f6da djur \u00e4r i dagsl\u00e4get ok\u00e4nt. Bara 4 % av de mer \u00e4n 1,7 miljoner vetenskapligt beskrivna arterna har unders\u00f6kts av den Internationella naturv\u00e5rdsunionens kriteriesystem f\u00f6r kategorisering av deras utd\u00f6enderisker. I Sverige gjordes den sista kvantifieringen av utd\u00f6enderisken f\u00f6r arter, den s\u00e5 kallande r\u00f6dlistningen, 2015 d\u00e5 statusen av 21600 arter bed\u00f6mdes. Alla d\u00e4ggdjur, kr\u00e4ldjur, groddjur och n\u00e4stan alla v\u00e4xter och mossor kunde f\u00e5 en bed\u00f6mning men v\u00e4ldigt f\u00e5 ryggradsl\u00f6sa djur. Bara 92 % av kr\u00e4ftdjuren kunde f\u00e5 en bed\u00f6mning p.g.a. s\u00e5 kallad \u201dkunskapsbrist\u201d eller \u201dej bed\u00f6md\u201d. Detsamma g\u00e4llde f\u00f6r bl\u00f6tdjur, speciellt musslor. Detta beror p\u00e5 att m\u00e5nga av dessa akvatiska djurgrupper \u00e4r s\u00e4llsynta eller sv\u00e5ra att uppt\u00e4cka i f\u00e4lt. Och med den p\u00e5g\u00e5ende traditionella \u00f6vervakningen f\u00e5r man inte tillr\u00e4ckligt med information som r\u00e4cker f\u00f6r en bed\u00f6mning. En internationell studie kunde dock visa att mollusker \u00e4r en av de mest hotade djurgrupperna med en extremt h\u00f6g utd\u00f6enderisk och en \u00f6kande utd\u00f6endetakt.Ett av Sveriges 16 milj\u00f6m\u00e5l \u00e4r att bevara den biologiska m\u00e5ngfalden, d\u00e4rf\u00f6r m\u00e5ste vi skaffa oss en b\u00e4ttre bild av arternas utd\u00f6enderisker och snabbare uppt\u00e4cka hotade arter. Utmaningen best\u00e5r i att samla in b\u00e4ttre data och information om ryggradsl\u00f6sa djur, speciellt med fokus p\u00e5 kr\u00e4ftdjur och mollusker, f\u00f6r att hitta flera aktuella observationer i f\u00e4lt och d\u00e4rmed b\u00e4ttre kunna ber\u00e4kna deras habitat- och populationsstorlek. I f\u00f6rsta steget i projektet kommer vi att sammanst\u00e4lla information fr\u00e5n tillg\u00e4ngliga databaser och andra informationsk\u00e4llor, som i dagsl\u00e4get inte tas h\u00e4nsyn till. Det kan t.ex. vara studier fr\u00e5n annan forskning som inte automatiskt f\u00f6rs \u00f6ver till de databaser som anv\u00e4nds inom milj\u00f6\u00f6vervakningen. Europeiska eller globala databaser f\u00f6rv\u00e4ntas ocks\u00e5 ge intressant information \u00e4ven f\u00f6r hotade arter som vi hittar i Sverige. F\u00f6r att f\u00e5 ytterligare information om artens utbredning kommer vi i andra steget att testa en metod som kallas f\u00f6r eDNA, milj\u00f6-DNA, allts\u00e5 en molekyl\u00e4r metod, d\u00e4r man med hj\u00e4lp av ett DNA-sp\u00e5r i ett milj\u00f6prov kan leta efter kr\u00e4ftdjuren eller bl\u00f6tdjurens f\u00f6rekomst. Metoden har hittills mest anv\u00e4nts p\u00e5 land, men v\u00e5ra f\u00f6rstudier visar att det \u00e4ven g\u00e5r att anv\u00e4nda metoden f\u00f6r att sp\u00e5ra marina hotade djur i akvatiska milj\u00f6er. S\u00e5 fort ett fynd registreras har man en observationspunkt d\u00e4r man aktivt i f\u00e4lt kan leta efter enstaka individer och/eller populationen samt unders\u00f6ka mer noggrant hur m\u00e5nga f\u00f6r\u00f6kande individer som finns i sj\u00e4lva populationen. \u00c4ven andra fakta som f\u00f6r\u00f6knings tid och antal f\u00f6r\u00f6kande individer ska m\u00e4tas, eftersom detta \u00e4r v\u00e4rdefulla data i en populationsmodell. En populationsmodell hj\u00e4lper oss att unders\u00f6ka om en population m\u00e5r bra, allts\u00e5 \u00f6kar i antal individer eller om den m\u00e5r d\u00e5lig och blir allt mindre, allts\u00e5 har en h\u00f6gre utd\u00f6enderisk.\u00a0Inom r\u00f6dlistningsbed\u00f6mning anv\u00e4nder man sig idag av ett kriterium som kallas f\u00f6r utbredningsomr\u00e5de och f\u00f6rekomstarean. Tv\u00e5 m\u00e5tt som p\u00e5 olika s\u00e4tt ber\u00e4knar arternas f\u00f6rekomster i km2. Det finns kritik mot att de tv\u00e5 ber\u00e4kningarna ger felk\u00e4llor f\u00f6r ryggradsl\u00f6sa djur, eftersom det kan vara sv\u00e5rt att ta h\u00e4nsyn till fragmentering, fluktuationer och fortg\u00e5ende minskning av geografisk utbredning. Den geografiska utbredningen ber\u00e4knas ofta vara f\u00f6r stor, varf\u00f6r vi i ett tredje steg av projektet kommer att testa om det \u00e4r m\u00f6jligt att minska ber\u00e4kningsfelet genom att anv\u00e4nda habitatmodellering ist\u00e4llet. Den traditionella ber\u00e4kningsmetoden ska sedan j\u00e4mf\u00f6ras med den nya, allts\u00e5 resultat fr\u00e5n habitatmodellen, d\u00e4r man med hj\u00e4lp av olika milj\u00f6data och artobservationer ist\u00e4llet ber\u00e4knar arternas potentiella f\u00f6rekomst.\u00a0Ett viktigt arbetss\u00e4tt i projektet \u00e4r ett t\u00e4tt samarbete med ArtDatabanken, Havs- och vattenmyndigheten, l\u00e4nsstyrelsen i V\u00e4stra G\u00f6talands region, olika r\u00f6dlistningsexperter och personer som jobbar med kr\u00e4ft- och bl\u00f6tdjurs arter, samt intressenter och slutanv\u00e4ndare. Under hela projektets tid s",
+        "projectAbstractEn": "In today\u2019s biodiversity crisis, there is an urgent need to monitor terrestrial and aquatic species in their natural habitats, especially those that may be endangered, invasive or elusive. Traditional species observation methods, based on acoustic or observational surveys are inefficient, costly and time consuming. On the other hand, DNA is continuously deposited in the environment from natural processes and this environmental DNA (eDNA) allows us to detect species and reconstruct their communities with a high level of sensitivity. These data can be used to obtain occurrence records and to collect more population information in field. Crucially, these data are necessary to inform management agencies about the current state of our biodiversity, and are especially urgent for species that are currently data deficient. The aims of this study are to firstly identify occurrence records from diverse sources (databases, literature) and generate a database of distributional data for species of crustacean and mollusks that are data deficient in Sweden. Secondly, we aim to detect threatened species in Swedish marine, freshwater and terrestrial habitats using novel genomic methods (DNA metabarcoding, ddPCR). Finally, based on the new data, we will run species distribution and population models, to improve information on geographic range and population status for threatened invertebrates. The results will be integrated into current monitoring programmes (e.g. red-listing) and action plans.",
+        "projectStartDate": "2019-01-01 00:00:00",
+        "projectEndDate": "2021-12-31 00:00:00",
+        "coordinatingOrganisationId": "202100-3146",
+        "coordinatingOrganisationNameSv": "H\u00f6gskolan i Sk\u00f6vde",
+        "coordinatingOrganisationNameEn": "Sk\u00f6vde University College",
+        "coordinatingOrganisationTypeOfOrganisationSv": "H\u00f6gskola",
+        "coordinatingOrganisationTypeOfOrganisationEn": "University College",
+        "fundingOrganisationId": "202100-5232",
+        "fundingOrganisationNameSv": "Formas",
+        "fundingOrganisationNameEn": "Formas",
+        "fundingOrganisationTypeOfOrganisationSv": "Stat, regioner, kommuner, f\u00f6rsamlingar",
+        "fundingOrganisationTypeOfOrganisationEn": "Governmental",
+        "fundingsSek": 2949000,
+        "fundingYear": "2019",
+        "fundingStartDate": "2019-01-01",
+        "fundingEndDate": "2021-12-31",
+        "typeOfAwardId": 1,
+        "typeOfAwardDescrSv": "Projektbidrag",
+        "typeOfAwardDescrEn": "Project grant",
+        "updatedDate": null,
+        "loadedDate": "Sep  8 2023  5:13AM",
+        "peopleList": [
+            {
+                "personId": "67391",
+                "fullName": "Sonja Leidenberger",
+                "orcId": "0000-0002-3985-8405",
+                "roleEn": "Principal Investigator",
+                "roleSv": "Projektledare",
+                "gender": "Female"
+            },
+            {
+                "personId": "59543",
+                "fullName": "Annie Jonsson",
+                "orcId": "0000-0002-3965-7371",
+                "roleEn": "Co-Investigator",
+                "roleSv": "Projektdeltagare",
+                "gender": "Female"
+            },
+            {
+                "personId": "51384",
+                "fullName": "Sarah Bourlat",
+                "orcId": "0000-0003-0218-0298",
+                "roleEn": "Co-Investigator",
+                "roleSv": "Projektdeltagare",
+                "gender": "Female"
+            }
+        ],
+        "scbs": [
+            {
+                "scb5Id": "10608",
+                "scb5NameSv": "Zoologi",
+                "scb5NameEn": "Zoology",
+                "scb3Id": "106",
+                "scb3NameSv": "Biologi (Medicinska till\u00e4mpningar under 3 och lantbruksvetenskapliga under 4)",
+                "scb3NameEn": "Biological Sciences\u00a0\u00a0(Medical to be 3 and Agricultural to be 4)",
+                "scb1Id": "1",
+                "scb1NameSv": "Naturvetenskap",
+                "scb1NameEn": "Natural Sciences"
+            },
+            {
+                "scb5Id": "10610",
+                "scb5NameSv": "Bioinformatik och systembiologi",
+                "scb5NameEn": "Bioinformatics and Systems Biology",
+                "scb3Id": "106",
+                "scb3NameSv": "Biologi (Medicinska till\u00e4mpningar under 3 och lantbruksvetenskapliga under 4)",
+                "scb3NameEn": "Biological Sciences\u00a0\u00a0(Medical to be 3 and Agricultural to be 4)",
+                "scb1Id": "1",
+                "scb1NameSv": "Naturvetenskap",
+                "scb1NameEn": "Natural Sciences"
+            },
+            {
+                "scb5Id": "10611",
+                "scb5NameSv": "Ekologi",
+                "scb5NameEn": "Ecology",
+                "scb3Id": "106",
+                "scb3NameSv": "Biologi (Medicinska till\u00e4mpningar under 3 och lantbruksvetenskapliga under 4)",
+                "scb3NameEn": "Biological Sciences\u00a0\u00a0(Medical to be 3 and Agricultural to be 4)",
+                "scb1Id": "1",
+                "scb1NameSv": "Naturvetenskap",
+                "scb1NameEn": "Natural Sciences"
+            }
+        ],
+        "score": 0.10740085607744487
+    },
+    {
+        "projectId": "P49308-1_Energi",
+        "projectTitleSv": "Operationell verksamhet som tj\u00e4nst",
+        "projectTitleEn": "Fleet Operation Center as a Service",
+        "projectAbstractSv": "Projektet syftar till energieffektivare flotthantering med hj\u00e4lp av sofistikerad landbaserad mjukvara och expertteam f\u00f6r analys och optimering av fartygsoperationell verksamhet. Tj\u00e4nsten m\u00f6jligg\u00f6r kostnadseffektiv analys och optimering av ett st\u00f6rre antal fartyg med mindre tonnage \u00e4n vad som idag \u00e4r vanligt.",
+        "projectAbstractEn": "Constantly increasing complexity in onboard systems as well as commercial conditions makes it very difficult to optimize some processes without sophisticated analysis and specialist support. Through digitalization and centralizing of some processes, a significant potential for more efficient ship operation has been identified. In this project, which is a part of a larger initiative, Wallenius Marine and ABB intend to develop a technical platform and a sub-service, \u201cMachinery & Condition Monitoring and Optimization\u201d, in a Fleet Operation Center, test it in operation and make it available to the market. The service is built on data collection, sophisticated software for analysis and optimization and a team of experts for advice and support to those onboard and ashore who takes the decisions. The potential for a full service Fleet Operation Center is calculated to around 15-20% and this first sub-service, which this application concerns, is estimated to have a potential of around 5-10%. ",
+        "projectStartDate": "2020-04-01 00:00:00",
+        "projectEndDate": "2021-04-30 00:00:00",
+        "coordinatingOrganisationId": "556084-6643",
+        "coordinatingOrganisationNameSv": "Wallenius Marine AB",
+        "coordinatingOrganisationNameEn": "Wallenius Marine AB",
+        "coordinatingOrganisationTypeOfOrganisationSv": "F\u00f6retag",
+        "coordinatingOrganisationTypeOfOrganisationEn": "Company",
+        "fundingOrganisationId": "202100-5000",
+        "fundingOrganisationNameSv": "Statens energimyndighet",
+        "fundingOrganisationNameEn": "Swedish Energy Agency ",
+        "fundingOrganisationTypeOfOrganisationSv": "Stat, regioner, kommuner, f\u00f6rsamlingar",
+        "fundingOrganisationTypeOfOrganisationEn": "Governmental",
+        "fundingsSek": 3069000,
+        "fundingYear": "2020",
+        "fundingStartDate": "2020-01-01",
+        "fundingEndDate": "2020-12-31",
+        "typeOfAwardId": 1,
+        "typeOfAwardDescrSv": "Projektbidrag",
+        "typeOfAwardDescrEn": "Project grant",
+        "updatedDate": null,
+        "loadedDate": "May 20 2022  2:52PM",
+        "peopleList": [],
+        "scbs": [
+            {
+                "scb5Id": "20304",
+                "scb5NameSv": "Energiteknik",
+                "scb5NameEn": "Energy Engineering",
+                "scb3Id": "203",
+                "scb3NameSv": "Maskinteknik",
+                "scb3NameEn": "Mechanical Engineering",
+                "scb1Id": "2",
+                "scb1NameSv": "Teknik",
+                "scb1NameEn": "Engineering and Technology"
+            }
+        ],
+        "score": 0.08940731581259809
+    },
+    {
+        "projectId": "2019-01649_Formas",
+        "projectTitleSv": "Effekter av tillv\u00e4xt och genotyp p\u00e5 variation i livshistoria hos Atlantlax - SalmonLife",
+        "projectTitleEn": "Effects of growth and genotype on life history variation in Altantic salmon - SalmonLife",
+        "projectAbstractSv": "Atlantlaxen \u00e4r en viktig art ekologiskt, kulturellt och ekonomiskt. Eftersom det finns ett stort intresse kring laxen \u00e4r det en v\u00e4lstuderad art men trots detta s\u00e5 saknas kunskap om havsfasen i laxens liv. Den f\u00f6rsta tiden i havet, post-smolt perioden, \u00e4r kritisk f\u00f6r \u00f6verlevnad och troligtvis betydelsefull f\u00f6r \u00e5lder vid k\u00f6nsmognad - vilket h\u00e4r r\u00e4knas i antalet havsvintrar och endast avser tiden laxen har spenderat i havet. I det h\u00e4r projektet kommer jag att kvantifiera hur genotyp och tillv\u00e4xt under den f\u00f6rsta tiden i havet p\u00e5verkar \u00e5lder f\u00f6r k\u00f6nsmognad. N\u00e4r laxen v\u00e4xer bildas ett ringm\u00f6nster i fj\u00e4llen och d\u00e4rf\u00f6r g\u00e5r det att genom fj\u00e4ll\u00e4sning f\u00e5 fram information om tillv\u00e4xt under laxens f\u00f6rsta \u00e5r i havet samt \u00e5lder vid k\u00f6nsmognad. I b\u00e5de Norge och Sverige har man samlat in ett stort antal fj\u00e4llprover fr\u00e5n lax, detta har man gjort i flera \u00e4lvar och \u00e4nda sedan b\u00f6rjan p\u00e5 1900-talet. Det g\u00f6r det m\u00f6jligt att studera hur genotyp och tillv\u00e4xt under den f\u00f6rsta perioden i havet p\u00e5verkar \u00e5lder f\u00f6r k\u00f6nsmognad och \u00e4ven hur detta har f\u00f6r\u00e4ndrats \u00f6ver tid och om det skiljer sig mellan lax i \u00d6stersj\u00f6n och lax i Atlanten. Nyligen har man hittat en gen (VGLL3) som \u00e4r starkt kopplad till \u00e5lder f\u00f6r k\u00f6nsmognad hos Atlantlax. F\u00f6r att m\u00e4ta effekten av genotyp och tillv\u00e4xt p\u00e5 \u00e5lder f\u00f6r k\u00f6nsmognad kommer dna analyser fr\u00e5n fj\u00e4ll att g\u00f6ras f\u00f6r ett antal populationer d\u00e4r fj\u00e4ll\u00e4sning genomf\u00f6rs. Dessutom kommer jag att samarbeta med forskare i Finland som g\u00f6r experiment med grupper av fisk med olika genotyper i kombination med olika milj\u00f6faktorer f\u00f6r att experimentellt skilja p\u00e5 effekter av arv och milj\u00f6 p\u00e5 k\u00f6nsmognadsprocessen. Jag kommer att anv\u00e4nda mig av information fr\u00e5n fj\u00e4ll\u00e4sning som redan gjorts eller kommer att utf\u00f6ras i tv\u00e5 parallella projekt: ett projekt vid v\u00e4rdinstitutionen (SeaSalar) som syftar till att \u00f6ka kunskapen om havsfasen i livscykeln, och ett svenskt projekt (Formas 2017-00669) d\u00e4r man vill titta p\u00e5 effekter av klimatf\u00f6r\u00e4ndringar p\u00e5 laxen i \u00d6stersj\u00f6n genom bland annat fj\u00e4llprovsl\u00e4sning. Mitt postdok-projekt kommer s\u00e5ledes att addera en j\u00e4mf\u00f6rande aspekt till dessa projekt och \u00f6ka nyttan av de anstr\u00e4ngningar som g\u00f6rs inom respektive projekt, samt bidra till \u00f6kat samarbete mellan forskargrupper i de olika l\u00e4nderna. B\u00e5de i \u00d6stersj\u00f6n och i Atlanten har d\u00f6dligheten under havsfasen \u00f6kat av ok\u00e4nda anledningar. F\u00f6r att vi ska kunna ha en h\u00e5llbar f\u00f6rvaltning och livskraftiga laxbest\u00e5nd \u00e4r det d\u00e4rf\u00f6r viktigt att kunskapsbasen breddas. Mitt postdok-projekt kommer att bidra till att \u00f6ka kunskapen om havsfasen av laxens liv och s\u00e4rskilt kring den f\u00f6rsta kritiska perioden. Jag har valt det Norska Institutet f\u00f6r Naturforskning (NINA) och deras akvatiska avdelning som v\u00e4rdinstitution f\u00f6r min tid som postdok. De har ett stort dataset fr\u00e5n tidigare fj\u00e4ll\u00e4sningar och dna analyser och under h\u00f6sten 2018 startade man tillsammans med norska universitet ett stort projekt (SeaSalar) om laxens liv i havet som matchar mitt intresseomr\u00e5de. Dessutom \u00e4r den akvatiska forskargruppen vid NINA v\u00e4rldsledande n\u00e4r det g\u00e4ller forskning p\u00e5 Atlantlax.",
+        "projectAbstractEn": "Atlantic salmon is a well-studied species but the knowledge about the marine phase of the life cycle is limited. The first period at sea, the post-smolt period, is critical and related to survival and likely the maturation process. In this project I will use data from fish scale analyses and test how genotype and growth during the first year at sea affect the sea age at maturity in Atlantic salmon. Changes over time and differences between populations of the Baltic Sea and of the Atlantic Ocean will be evaluated since scale samples have been collected in many rivers from the early 20 century, both in Sweden and in Norway. Genotyping of scales will determine the genotype at a major age-at-maturity gene and that will be used, together with experimental data, to quantify the effect of growth versus genotype on the maturation process. My postdoc project will increase the knowledge about a critical period of the Atlantic salmon lifecycle where increased mortality has been observed in later years. I will partly capitalize on data from parallel projects in Sweden, Norway, and Finland. This will enhance the feasibility of SalmonLife, increase the total output, and contribute to the collaboration among the different research groups. The host institute (NINA) has relevant data sets, infrastructure, and a world-renowned research group consisting of around 50 scientists with a wide array of expertise, making it the prime location for my postdoc research.",
+        "projectStartDate": "2020-01-01 00:00:00",
+        "projectEndDate": "2023-12-31 00:00:00",
+        "coordinatingOrganisationId": "202100-2817",
+        "coordinatingOrganisationNameSv": "Sveriges lantbruksuniversitet",
+        "coordinatingOrganisationNameEn": "Swedish University of Agricultural Sciences",
+        "coordinatingOrganisationTypeOfOrganisationSv": "Universitet",
+        "coordinatingOrganisationTypeOfOrganisationEn": "University",
+        "fundingOrganisationId": "202100-5232",
+        "fundingOrganisationNameSv": "Formas",
+        "fundingOrganisationNameEn": "Formas",
+        "fundingOrganisationTypeOfOrganisationSv": "Stat, regioner, kommuner, f\u00f6rsamlingar",
+        "fundingOrganisationTypeOfOrganisationEn": "Governmental",
+        "fundingsSek": 4796740,
+        "fundingYear": "2020",
+        "fundingStartDate": "2020-01-01",
+        "fundingEndDate": "2023-12-31",
+        "typeOfAwardId": 2,
+        "typeOfAwardDescrSv": "Bidrag f\u00f6r anst\u00e4llning eller stipendier",
+        "typeOfAwardDescrEn": "Grant for positions or stipends",
+        "updatedDate": null,
+        "loadedDate": "Sep  8 2023  5:13AM",
+        "peopleList": [
+            {
+                "personId": "67688",
+                "fullName": "Lo Persson",
+                "orcId": "",
+                "roleEn": "Principal Investigator",
+                "roleSv": "Projektledare",
+                "gender": "Female"
+            }
+        ],
+        "scbs": [
+            {
+                "scb5Id": "10611",
+                "scb5NameSv": "Ekologi",
+                "scb5NameEn": "Ecology",
+                "scb3Id": "106",
+                "scb3NameSv": "Biologi (Medicinska till\u00e4mpningar under 3 och lantbruksvetenskapliga under 4)",
+                "scb3NameEn": "Biological Sciences\u00a0\u00a0(Medical to be 3 and Agricultural to be 4)",
+                "scb1Id": "1",
+                "scb1NameSv": "Naturvetenskap",
+                "scb1NameEn": "Natural Sciences"
+            }
+        ],
+        "score": 0.08858771688142872
+    },
+    {
+        "projectId": "2019-04061_VR",
+        "projectTitleSv": "Triassic park - utd\u00f6ende, och exceptionellt v\u00e4lbevarade fossil",
+        "projectTitleEn": "THE TRIASSIC PARK \u2013 EXTINCTION, AND EXCEPTIONAL PRESERVATION",
+        "projectAbstractSv": "\"Triassic park\" - utd\u00f6ende, och exceptionellt v\u00e4lbevarade fossilMassutd\u00f6endet vid \u00f6verg\u00e5ngen fr\u00e5n trias till jura\u00a0 f\u00f6r ca. 201 miljoner \u00e5r sedan \u00e4r det av de fem stora utd\u00f6endena som omges av flest fr\u00e5getecken. Vid slutet av trias dog 25 % av alla marina ryggradsl\u00f6sa djur ut. M\u00e5nga sl\u00e4kten av amfibier och reptiler dog ut (ca. 50% p\u00e5 artniv\u00e5) och l\u00e4mnade lediga nischer d\u00e4r nya djur fick fritt spelrum. Det var i tidig jura som djur s\u00e5 som krokodiler och sk\u00f6ldpaddor antog sin nuvarande form och jura blev dinosauriernas tid, d\u00e5 dinosaurierna utvecklades till de stora reptiler som h\u00e4rskade fram till f\u00f6r 66 miljoner \u00e5r sedan. V\u00e4xterna drabbades och data fr\u00e5n Nordamerika och Europa visar att \u00f6ver 70% av v\u00e4xterna dog ut.Utd\u00f6endet vid trias-jura, markeras p\u00e5 sydkontinenterna (Australien, Sydamerika) av f\u00f6rsvinnandet av en viss sorts sporer (typiska former f\u00f6r trias) och uppdykande av m\u00e4ngder med Classopollis. Classopollis \u00e4r ett mycket karakteristisk pollen som producerades av nu utd\u00f6da, h\u00f6ga, kustlevande barrtr\u00e4d och som var allm\u00e4nt f\u00f6rekommande under jura. Man ser samma \u00f6verg\u00e5ng till Classopollis p\u00e5 norra halvklotet (Storbritannien, Danmark, Sverige) men menar d\u00e4r att det inte sammanfaller med gr\u00e4nsen utan att det motsvarar klimatf\u00f6r\u00e4ndringen en bit in i jura. Detta \u00e4r naturligtvis ett stort problem d\u00e5 man l\u00e4tt kan r\u00e5ka ut f\u00f6r att j\u00e4mf\u00f6ra lager av n\u00e5got olika \u00e5lder vid\u00a0 en global analys. Man menar i st\u00e4llet att man p\u00e5 Norra Halvklotet \u00a0inte kan peka ut gr\u00e4nsen med hj\u00e4lp av pollen utan anv\u00e4nder sig av fossila blad fr\u00e5n v\u00e4xter. Man grovindelar gr\u00e4nsen baserad p\u00e5 utd\u00f6endet av fr\u00f6ormbunken\u00a0Lepidopteris och uppdykandet av ormbunken Thaumatopteris. I n\u00e4rheten av Bjuv i Sk\u00e5ne finns en l\u00e4tt \u00e5tkomlig lagerf\u00f6ljd som innefattar trias-jura gr\u00e4nsen, men \u00e4nnu har inte den exakta positionen av gr\u00e4nslagret identifierats.M\u00e4ngder av fossila blad fr\u00e5n fr\u00f6ormbunkar och andra v\u00e4xter\u00a0insamlades under 1900-talet, fr\u00e5n de nu igenfyllda dagbrotten. De finns nu p\u00e5 Riksmuseet i Stockholm. I samlingarna finns \u00e4ven m\u00e4ngder av fossila l\u00f6v fr\u00e5n trias-juragr\u00e4nsen fr\u00e5n Gr\u00f6nland. M\u00e5let med studien \u00e4r att med hj\u00e4lp av paleobotanik och palynologi utr\u00f6na h\u00e4ndelsef\u00f6roppen i samband med massutd\u00f6endet vid trias-juragr\u00e4nsen. Pollensignalen fr\u00e5n proverna i brottet kan d\u00e5 j\u00e4mf\u00f6ras med signalen fr\u00e5n pollen taget fr\u00e5n sedimenten som omger de fossila bladen i museets samlingar, dvs. de kommer att utg\u00f6ra nyckel f\u00f6r en detaljerad unders\u00f6kning. M\u00e5let \u00e4r att p\u00e5 detta vis kunna identifiera gr\u00e4nsen med stor noggrannhet i de sk\u00e5nska sedimenten och anv\u00e4nda denna sektion som en referenslokal f\u00f6r norra halvklotets trias-juragr\u00e4ns.I Syd\u00f6stra Queensland, Australien, finns kanske de allra b\u00e4st bevarande fossila flororna fr\u00e5n trias-tiden p\u00e5 jorden. Dessutom har man alldeles nyligen uppt\u00e4ckt mycket v\u00e4lbevarade fossila makrofloror av jurassisk \u00e5lder. Pionj\u00e4rarbetet med artbest\u00e4mningar av nya arter och grovskalig pollen-zonering \u00e4r redan utf\u00f6rd. Denna finskaliga unders\u00f6kning leder f\u00f6rhoppningsvis till att de provtagna sektionerna blir en referenssektion f\u00f6r sydkontinenterna (Gondwana). M\u00e5let \u00e4r att med hj\u00e4lp av resultaten fr\u00e5n den v\u00e4lk\u00e4nda krita-terti\u00e4rgr\u00e4nsen g\u00f6ra en j\u00e4mf\u00f6relse med paleobotaniska, sedimentologiska, och geokemiska unders\u00f6kningar av massutd\u00f6endet vid trias-jura gr\u00e4nsen. Genom att korrelera (sammanl\u00e4nka) trias-jura gr\u00e4nslagret p\u00e5 b\u00e5da halvkloten och utreda om f\u00f6r\u00e4ndringar i flora \u00e4r samtidiga med f\u00f6r\u00e4ndringar i sedimentologi och geokemi, kan man klarl\u00e4gga f\u00f6r\u00e4ndringarna i milj\u00f6 och d\u00e4rmed orsaken bakom detta relativt ok\u00e4nda massutd\u00f6ende.Bland de fossila flororna fr\u00e5n Sk\u00e5ne och Gr\u00f6nland finns vissa exemplar som uppvisar exceptionell bevaring. Dessa kommer att analyseras med hj\u00e4lp av nya metoder som min forskargupp h\u00e5ller p\u00e5 att utveckla. Dessa studier kommer att utf\u00f6ras p\u00e5 MAX IV och bidra med nya metoder f\u00f6r studiet av fossila organismer.",
+        "projectAbstractEn": "There is growing scientific consensus that we have recently entered a period of human-induced mass extinction. Studying the diversity patterns in the fossil record provides an important deep-time perspective on factors controlling extinction, survival, recovery and speciation. The end-Triassic mass-extinction event, 201 Ma, represents one of the five largest biotic crises of the Phanerozoic and affected both marine and terrestrial organisms.\u00a0 Abundance data of fossil floras from Sweden and Greenland, available from the Swedish Museum of Natural History collections\u00a0will be compared with pollen data and combined with\u00a0 organic geochemistry and elemental analyses\u00a0with aims\u00a0 to identify the pattern of the extinction in continental settings.\u00a0The targeted geographical areas for fieldwork and collection of material are Sweden and Australia.\u00a0Funding is applied to cover fieldwork, a technician (20%) and a postdoctoral researcher, expert in Mesozoic paleobotany focusing on the fossil floras from Sk\u00e5ne and Australia. Some of the fossil leaves show exceptional preservation\u00a0and will be analysed for their organic content. Novel methods to be applied within the frame of this proposal include targeted elemental analyses\u00a0 of organelles in fossil leaves and of sediments\u00a0at two of the new beamlines at MAX-IV. Support from VR would allow the continuation of the development of novel research and methods that would provide new tools to an international audience and promote Swedish science.",
+        "projectStartDate": "2020-01-01 00:00:00",
+        "projectEndDate": "2023-12-31 00:00:00",
+        "coordinatingOrganisationId": "202100-1124",
+        "coordinatingOrganisationNameSv": "Naturhistoriska riksmuseet",
+        "coordinatingOrganisationNameEn": "Naturhistoriska riksmuseet",
+        "coordinatingOrganisationTypeOfOrganisationSv": "Stat, regioner, kommuner, f\u00f6rsamlingar",
+        "coordinatingOrganisationTypeOfOrganisationEn": "Governmental",
+        "fundingOrganisationId": "202100-5208",
+        "fundingOrganisationNameSv": "Vetenskapsr\u00e5det",
+        "fundingOrganisationNameEn": "Swedish Research Council",
+        "fundingOrganisationTypeOfOrganisationSv": "Stat, regioner, kommuner, f\u00f6rsamlingar",
+        "fundingOrganisationTypeOfOrganisationEn": "Governmental",
+        "fundingsSek": 3620000,
+        "fundingYear": "2020",
+        "fundingStartDate": "2020-01-01",
+        "fundingEndDate": "2023-12-31",
+        "typeOfAwardId": 1,
+        "typeOfAwardDescrSv": "Projektbidrag",
+        "typeOfAwardDescrEn": "Project grant",
+        "updatedDate": null,
+        "loadedDate": "Sep  8 2023  5:12AM",
+        "peopleList": [
+            {
+                "personId": "56310",
+                "fullName": "Vivi Vajda",
+                "orcId": "0000-0003-2987-5559",
+                "roleEn": "Principal Investigator",
+                "roleSv": "Projektledare",
+                "gender": "Female"
+            }
+        ],
+        "scbs": [
+            {
+                "scb5Id": "10504",
+                "scb5NameSv": "Geologi",
+                "scb5NameEn": "Geology",
+                "scb3Id": "105",
+                "scb3NameSv": "Geovetenskap och milj\u00f6vetenskap",
+                "scb3NameEn": "Earth and Related Environmental Sciences",
+                "scb1Id": "1",
+                "scb1NameSv": "Naturvetenskap",
+                "scb1NameEn": "Natural Sciences"
+            }
+        ],
+        "score": 0.08462138110492275
+    },
+    {
+        "projectId": "2022-01785_Formas",
+        "projectTitleSv": "Ta fram \u00e5tg\u00e4rder f\u00f6r ocean utmaningar genom att unders\u00f6ka historia, nutid och framtiden f\u00f6r de Europeiska syngnathid arterna.",
+        "projectTitleEn": "Promoting action on broad ocean challenges by delving into the past, present and future of European syngnathids",
+        "projectAbstractSv": "Sj\u00f6h\u00e4star och kantn\u00e5lsfiskar tillh\u00f6r en stor familj av benfiskar vid namn Syngnathidae, med 57 sl\u00e4kten och ca 300 arter. De lever fr\u00e4mst i grunda marina och br\u00e4ckta milj\u00f6er. Syngnathidernas unika reproduktionss\u00e4tt med hanlig graviditet har l\u00e4nge gjort dem till modellorganismer f\u00f6r fr\u00e5gor som relaterar till sexuellt urval och evolution av reproduktiv komplexitet. Allm\u00e4nhetens uppskattning av dessa f\u00e4ngslande fiskar str\u00e4cker sig l\u00e5ngt bortom vetenskapen. Syngnathider (s\u00e4rskilt sj\u00f6h\u00e4star) f\u00e5ngar allm\u00e4nhetens uppm\u00e4rksamhet och l\u00e5ter dem fungera som viktiga ambassad\u00f6rer f\u00f6r marint bevarandearbete.\u00a0Nyligen ledde arbetet av IUCN Species Survival Commission Seahorse, Pipefish and Seadragon Specialist Group (SPS SG) till en ny resolution om bevarande av syngnathider som godk\u00e4ndes vid IUCN World Conservation Congress (WCC-2020-Res-095). Resolutionen v\u00e4ntar nu p\u00e5 att genomf\u00f6ras av alla IUCN-medlemmar, inklusive europeiska l\u00e4nder.\u00a0Resolutionen belyser att m\u00e4nsklig aktivitet och klimatf\u00f6r\u00e4ndringar p\u00e5verkar livsviktiga livsmilj\u00f6er f\u00f6r syngnathider. Sj\u00f6gr\u00e4s\u00e4ngar \u00e4r allvarligt hotade i flera europeiska regioner. De \u00e4r avg\u00f6rande b\u00e5de f\u00f6r syngnathider och k\u00e4nsliga tidiga livsstadier av m\u00e5nga andra marina arter. Resolutionen uppmuntrar medlemmar av IUCN att vidta ett flertal specifika \u00e5tg\u00e4rder, av vilka de flesta tas upp i detta forskningsf\u00f6rslag.\u00a0Man skulle kunna tro att problemen som p\u00e5verkar syngnathider \u00e4r tydligast utanf\u00f6r Europa. De \u00e4r inte! Inom europeiska vatten finns 15 arter av kantn\u00e5lsfiskar och 3 sj\u00f6h\u00e4starter. Av dessa \u00e4r 55% listade som Data Deficient och populationsstatusen \u00e4r ok\u00e4nd f\u00f6r 83% av arterna. Dessa siffror visar p\u00e5 en kunskapsklyfta, som allvarligt begr\u00e4nsar v\u00e5r f\u00f6rm\u00e5ga att uppt\u00e4cka, v\u00e4nda eller undvika potentiella st\u00f6rningar.\u00a0Nuvarande lagars effektivitet kan endast fastst\u00e4llas om vilda populationer \u00f6vervakas. Det faktum att vi hittills ignorerat statusen f\u00f6r de flesta europeiska syngnathider visar att \u00f6vervakningsinsatser saknas. Viktiga undantag finns dock i Portugal, Spanien, Italien och Grekland, men de har genomf\u00f6rts av icke-statliga organisationer (alla aktiva partners i v\u00e5rt team).\u00a0Europa har \u00e5tagit sig att skydda 10% av sina kust- och havsomr\u00e5den f\u00f6r att uppr\u00e4tth\u00e5lla h\u00e4lsan i sina hav. Samtidigt medger man att det kr\u00e4vs \u00e4nnu st\u00f6rre skyddad yta, s\u00e4rskilt i Macaronesien och Medelhavet. L\u00e4mpligheten av marina skyddade omr\u00e5den (MPA) inom EU \u00e5terst\u00e5r att testas f\u00f6r syngnathider. Klimatf\u00f6r\u00e4ndringar kan f\u00f6rsvaga MPAernas skyddande roll. Eftersom europeiska syngnathider flyttar sina utbredningsomr\u00e5den norrut, i respons till klimatf\u00f6r\u00e4ndringar, \u00e4r anpassningsbara f\u00f6rvaltningsmetoder n\u00f6dv\u00e4ndiga.\u00a0Nu n\u00e4r EUs strategi f\u00f6r biologisk m\u00e5ngfald 2030 har satt upp m\u00e5let att klassificera 30% av dess hav och f\u00f6rbereda utbyggnaden av MPA, b\u00f6r vi l\u00e4ra oss av gr\u00e4ns\u00f6verskridande milj\u00f6f\u00f6rvaltning i \u00d6stersj\u00f6n och utarbeta styrmetoder som stimuleras av intressenters deltagande och samarbete mellan sektorer. I EUROSYNG kommer vi hj\u00e4lpa europeiska stater att f\u00f6lja kraven i WCC-2020-Res-095 genom att tillhandah\u00e5lla en tydlig bild av syngnathiders status i Europa.\u00a0Vi kommer ta fram en kronologisk bild av syngnatiders utbredning, fr\u00e5n det f\u00f6rflutna, via nuet, till framtiden, och m\u00e4ta populationers h\u00e4lsa med b\u00e5de traditionella (museidata, populationsr\u00e4kningar) och toppmoderna metoder (populationsgenomik). Det senare bygger p\u00e5 sekvensering av &gt;4500 individer fr\u00e5n 40 populationer, och kommer ge avg\u00f6rande insikter om status, isolering och migrationspotential f\u00f6r europeiska syngnatidpopulationer. Dessa data m\u00f6jligg\u00f6r kritisk analys av befintliga och framtida skyddade omr\u00e5den, som kan hj\u00e4lpa till att mildra effekter av klimatf\u00f6r\u00e4ndringar. F\u00f6r att skapa en \u00e5teranv\u00e4ndbar databas kommer distributionsdata h\u00e4nvisa till kodifierade habitat enligt ett europeiskt standardprotokoll.\u00a0Genom att anv\u00e4nda syngnathider som s.k. flaggskeppsarter kommer vi dra nytta av allm\u00e4nhetens k\u00e4nslom\u00e4ssiga koppling till dessa ikoniska varelser f\u00f6r att \u00f6ka medvetenheten om lok",
+        "projectAbstractEn": "Seahorses and pipefish belong to the teleost family Syngnathidae. They have a unique mode of reproduction, with a male pregnancy. According to the IUCN\u00b4s red list, there are 18 species of syngnathids in European waters, of which 55% are data deficient and 83% population status is unknown. In EUROSYNG, we will help European countries comply with the requirements of an IUCN resolution by estimating the population status of these species in Europe. We will study their distributions in the past, present and future, measure today\u00b4s population health by comparing museum data to population estimates. Sequencing of 5,000 individuals of species with both existing and de novo genomes, will provide important insights into health status, connectivity and migration potential of European syngnatid populations. Our data will allow existing marine protected areas to be evaluated and new areas to be created that mitigate effects of climate change. With seahorses as flagship species, we take advantage of the public\u00b4s spontaneous delight in them, to increase their knowledge of the sea, conservation issues, effects of climate change, and interest in citizen science. We will develop tools that support blue economy, including nature tourism. EUROSYNG brings together specialists with complementary expertise from 7 European countries and a wide range of partner stakeholders. Our project will collect data valuable for all participating countries, IUCN and EU, and help EU to address its 30x30 goals.\u00a0",
+        "projectStartDate": "2022-12-01 00:00:00",
+        "projectEndDate": "2025-11-30 00:00:00",
+        "coordinatingOrganisationId": "202100-2932",
+        "coordinatingOrganisationNameSv": "Uppsala universitet",
+        "coordinatingOrganisationNameEn": "Uppsala University",
+        "coordinatingOrganisationTypeOfOrganisationSv": "Universitet",
+        "coordinatingOrganisationTypeOfOrganisationEn": "University",
+        "fundingOrganisationId": "202100-5232",
+        "fundingOrganisationNameSv": "Formas",
+        "fundingOrganisationNameEn": "Formas",
+        "fundingOrganisationTypeOfOrganisationSv": "Stat, regioner, kommuner, f\u00f6rsamlingar",
+        "fundingOrganisationTypeOfOrganisationEn": "Governmental",
+        "fundingsSek": 3091000,
+        "fundingYear": "2022",
+        "fundingStartDate": "2022-01-01",
+        "fundingEndDate": "2024-12-31",
+        "typeOfAwardId": 1,
+        "typeOfAwardDescrSv": "Projektbidrag",
+        "typeOfAwardDescrEn": "Project grant",
+        "updatedDate": null,
+        "loadedDate": "Sep  8 2023  5:13AM",
+        "peopleList": [
+            {
+                "personId": "52142",
+                "fullName": "Gunilla Rosenqvist",
+                "orcId": "0000-0002-6500-020X",
+                "roleEn": "Principal Investigator",
+                "roleSv": "Projektledare",
+                "gender": "Female"
+            }
+        ],
+        "scbs": [
+            {
+                "scb5Id": "10608",
+                "scb5NameSv": "Zoologi",
+                "scb5NameEn": "Zoology",
+                "scb3Id": "106",
+                "scb3NameSv": "Biologi (Medicinska till\u00e4mpningar under 3 och lantbruksvetenskapliga under 4)",
+                "scb3NameEn": "Biological Sciences\u00a0\u00a0(Medical to be 3 and Agricultural to be 4)",
+                "scb1Id": "1",
+                "scb1NameSv": "Naturvetenskap",
+                "scb1NameEn": "Natural Sciences"
+            },
+            {
+                "scb5Id": "10611",
+                "scb5NameSv": "Ekologi",
+                "scb5NameEn": "Ecology",
+                "scb3Id": "106",
+                "scb3NameSv": "Biologi (Medicinska till\u00e4mpningar under 3 och lantbruksvetenskapliga under 4)",
+                "scb3NameEn": "Biological Sciences\u00a0\u00a0(Medical to be 3 and Agricultural to be 4)",
+                "scb1Id": "1",
+                "scb1NameSv": "Naturvetenskap",
+                "scb1NameEn": "Natural Sciences"
+            },
+            {
+                "scb5Id": "10615",
+                "scb5NameSv": "Evolutionsbiologi",
+                "scb5NameEn": "Evolutionary Biology",
+                "scb3Id": "106",
+                "scb3NameSv": "Biologi (Medicinska till\u00e4mpningar under 3 och lantbruksvetenskapliga under 4)",
+                "scb3NameEn": "Biological Sciences\u00a0\u00a0(Medical to be 3 and Agricultural to be 4)",
+                "scb1Id": "1",
+                "scb1NameSv": "Naturvetenskap",
+                "scb1NameEn": "Natural Sciences"
+            }
+        ],
+        "score": 0.08297300243119733
+    },
+    {
+        "projectId": "2020-00454_Formas",
+        "projectTitleSv": "Oj\u00e4mlikheter och Biosf\u00e4ren: Att Uppn\u00e5 de Globala H\u00e5llbarhetsm\u00e5len i en Oj\u00e4mlik V\u00e4rld",
+        "projectTitleEn": "Inequality and the Biosphere: Achieving the Sustainable Development Goals in an Unequal World",
+        "projectAbstractSv": "Oj\u00e4mlikheter och Biosf\u00e4ren: Att Uppn\u00e5 de Globala H\u00e5llbarhetsm\u00e5len i en Oj\u00e4mlik V\u00e4rldN\u00e4r vi talar och m\u00e4ter globala oj\u00e4mlikheter handlar det oftast om olika ekonomiska aspekter, s\u00e5som inkomst och v\u00e4lst\u00e5nd. Men oj\u00e4mlikheter kan ocks\u00e5 definieras bredare och innefatta allas r\u00e4tt till lika m\u00f6jligheter med avseende p\u00e5 etnicitet, k\u00f6n, och andra individuella egenskaper. Samtidigt har vi olika socio-ekonomiska, politiska och ekologiska f\u00f6ruts\u00e4ttningar beroende p\u00e5 var i v\u00e4rlden vi bor. Vissa har tillg\u00e5ng till rent vatten, rikligt med fisk och b\u00f6rdig jord, en fungerande ekonomi, demokratiskt politiskt styre, medan andra har ett betydligt s\u00e4mre utg\u00e5ngsl\u00e4ge. Geografin medf\u00f6r ocks\u00e5 olika k\u00e4nslighet f\u00f6r milj\u00f6f\u00f6r\u00e4ndringar och klimateffekter, d\u00e4r m\u00e5nga l\u00e5ginkomstl\u00e4nder st\u00e5r inf\u00f6r de st\u00f6rsta utmaningarna, dessv\u00e4rre i m\u00e5nga fall otillr\u00e4ckligt rustade f\u00f6r att f\u00f6rebygga l\u00e5ngtg\u00e5ende ekologiska och ekonomiska konsekvenser.F\u00f6r att uppn\u00e5 h\u00e5llbar utveckling p\u00e5 global niv\u00e5 har v\u00e4rldens l\u00e4nder g\u00e5tt samman och utformat 17 globala delm\u00e5l som skall vara uppn\u00e5dda \u00e5r 2030. Med hj\u00e4lp av dessa delm\u00e5l ska m\u00e4nskligheten avskaffa extrem fattigdom, minska or\u00e4ttvisorna i v\u00e4rlden, fr\u00e4mja fred och r\u00e4ttvisa samt l\u00f6sa klimatkrisen. Minskade oj\u00e4mlikheter (delm\u00e5l 10) och skydd f\u00f6r hav och marina resurser (delm\u00e5l 14), likv\u00e4l som de landbaserade ekosystemen (delm\u00e5l 15) i v\u00e5r biosf\u00e4r \u00e4r tre kritiska delm\u00e5l f\u00f6r att uppn\u00e5 de globala m\u00e5len.Som ett led i att b\u00e4ttre f\u00f6rst\u00e5 sambandet mellan oj\u00e4mlikheter och missbruket av v\u00e5ra naturresurser har detta projekt som syfte att identifiera de synergieffekter som uppst\u00e5r med mer j\u00e4mlika f\u00f6rh\u00e5llanden,\u00a0vilket skulle bidra till att\u00a0b\u00e4ttre skydda haven och se till att vi d\u00e4rmed tillvaratar v\u00e5ra marina resurser, likv\u00e4l som de landbaserade ekosystemen i v\u00e5r biosf\u00e4r. Detta projekt kommer att knyta ihop forskning kring oj\u00e4mlikheter, h\u00e5llbara ekosystem och transnationella akt\u00f6rer genom ett omfattande interdisciplin\u00e4rt forskningsteam. Vi kommer att:1.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Identifiera\u00a0korrelationer\u00a0mellan olika typer av indikatorer f\u00f6r oj\u00e4mlikheter och milj\u00f6, genom att analysera ny och tidigare f\u00f6rv\u00e4rvade data b\u00e5de p\u00e5 nationell som global niv\u00e5.2.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Unders\u00f6ka\u00a0processer\u00a0d\u00e4r oj\u00e4mlikheter inom produktion och f\u00f6rvaltning av fisk- och landresurser kan m\u00f6jligg\u00f6ra, eller f\u00f6rsv\u00e5ra, m\u00e5let att uppn\u00e5 j\u00e4mlikhet samt de biosf\u00e4rrelaterade h\u00e5llbarhetsm\u00e5len.3.\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Ta fram praktiker f\u00f6r att\u00a0utnyttja synergier och minimera konflikter mellan dessa h\u00e5llbarhetsm\u00e5l.\u00a0F\u00f6r att f\u00f6rst\u00e5 dessa processer p\u00e5 ett djupare plan kommer vi att arbeta i Indonesien och studera dess fisk- och palmoljeindustri. Vi kommer att unders\u00f6ka hur m\u00e4nniskor p\u00e5verkas av olika certifieringskrav inom fiske- och palmoljeindustrin, samt hur m\u00e4nniskors handlingar p\u00e5verkas av hur m\u00e4nniskor uppfattar olika typer av oj\u00e4mlikheter. Forskningen kommer att bedrivas fr\u00e5n den enskilde individen och dennes uppfattningar och beteenden, \u00e4nda upp till multinationella f\u00f6retag\u00a0och mellanstatliga f\u00f6rdrag. Vi kommer samarbeta med lokala organisationer och naturresursanv\u00e4ndare, liksom f\u00f6retag, statliga och icke-statliga institutioner. V\u00e5ra forskningresultat kommer presenteras via interaktiva databaser, policy briefs, popul\u00e4rvetenskapliga- och vetenskapliga artiklar. Projektet kommer s\u00e5ledes inte bara bidra med ny data och vetenskapliga r\u00f6n om interaktionerna mellan h\u00e5llbarhetsm\u00e5len f\u00f6r minskad oj\u00e4mlikhet och havs- och landbaserade ekosystem, utan \u00e4ven m\u00f6jligg\u00f6ra anv\u00e4ndandet av denna kunskap f\u00f6r transformativa \u00e5tg\u00e4rder p\u00e5 lokal, regional och global niv\u00e5.",
+        "projectAbstractEn": "Reducing inequalities in society and maintaining healthy marine and terrestrial ecosystems are pivotal to achieving sustainable development,\u00a0yet the interactions between these goals have been largely underexplored. Our project aims to identify synergies and trade-offs between reducing inequalities (SDG 10) and safeguarding the biosphere (SDGs 14 and 15). We will: 1) collect and synthesize data at different scales to identify patterns between different types of inequality and environmental indicators; 2) investigate critical processes through which inequalities in natural resource production and management systems enable or hinder the achievement of biosphere-related SDGs, as exemplified in the seafood and palm oil industries in Indonesia; and 3) concurrently engage with stakeholders in local communities in Indonesia, as well as governments, businesses, and NGOs from local to global levels, to identify practices that can harness win/win interactions between SDGs while minimizing trade-offs. This project will therefore not only contribute new data and scientific knowledge regarding the interactions between key SDGs, but also enable the application of this knowledge for transformative action at the local, regional, as well as global scale.",
+        "projectStartDate": "2020-10-01 00:00:00",
+        "projectEndDate": "2024-09-30 00:00:00",
+        "coordinatingOrganisationId": "262000-1129",
+        "coordinatingOrganisationNameSv": "Kungl. Vetenskapsakademien (KVA)",
+        "coordinatingOrganisationNameEn": "The Royal Swedish Academy of Sciences",
+        "coordinatingOrganisationTypeOfOrganisationSv": "Stat, regioner, kommuner, f\u00f6rsamlingar",
+        "coordinatingOrganisationTypeOfOrganisationEn": "Governmental",
+        "fundingOrganisationId": "202100-5232",
+        "fundingOrganisationNameSv": "Formas",
+        "fundingOrganisationNameEn": "Formas",
+        "fundingOrganisationTypeOfOrganisationSv": "Stat, regioner, kommuner, f\u00f6rsamlingar",
+        "fundingOrganisationTypeOfOrganisationEn": "Governmental",
+        "fundingsSek": 19997686,
+        "fundingYear": "2020",
+        "fundingStartDate": "2020-01-01",
+        "fundingEndDate": "2024-12-31",
+        "typeOfAwardId": 1,
+        "typeOfAwardDescrSv": "Projektbidrag",
+        "typeOfAwardDescrEn": "Project grant",
+        "updatedDate": null,
+        "loadedDate": "Sep  8 2023  5:13AM",
+        "peopleList": [
+            {
+                "personId": "55281",
+                "fullName": "Tong Wu",
+                "orcId": "",
+                "roleEn": "Co-Investigator",
+                "roleSv": "Projektdeltagare",
+                "gender": "Male"
+            },
+            {
+                "personId": "60588",
+                "fullName": "Andrew Tilman",
+                "orcId": "0000-0002-6702-7887",
+                "roleEn": "Co-Investigator",
+                "roleSv": "Projektdeltagare",
+                "gender": "Male"
+            },
+            {
+                "personId": "55495",
+                "fullName": "Maike Hamann",
+                "orcId": "0000-0003-2906-4043",
+                "roleEn": "Co-Investigator",
+                "roleSv": "Projektdeltagare",
+                "gender": "Female"
+            },
+            {
+                "personId": "59073",
+                "fullName": "Emilie Lindkvist",
+                "orcId": "0000-0003-1546-0934",
+                "roleEn": "Co-Investigator",
+                "roleSv": "Projektdeltagare",
+                "gender": "Female"
+            },
+            {
+                "personId": "56390",
+                "fullName": "Patrik Henriksson",
+                "orcId": "0000-0002-3439-623X",
+                "roleEn": "Co-Investigator",
+                "roleSv": "Projektdeltagare",
+                "gender": "Male"
+            },
+            {
+                "personId": "53774",
+                "fullName": "Anne-Sophie Cr\u00e9pin",
+                "orcId": "0000-0002-8161-8851",
+                "roleEn": "Co-Investigator",
+                "roleSv": "Projektdeltagare",
+                "gender": "Female"
+            },
+            {
+                "personId": "56548",
+                "fullName": "Caroline Schill",
+                "orcId": "0000-0001-7628-4829",
+                "roleEn": "Co-Investigator",
+                "roleSv": "Projektdeltagare",
+                "gender": "Female"
+            },
+            {
+                "personId": "64817",
+                "fullName": "Robert Heilmayr",
+                "orcId": "0000-0001-8980-9639",
+                "roleEn": "Co-Investigator",
+                "roleSv": "Projektdeltagare",
+                "gender": "Male"
+            },
+            {
+                "personId": "53979",
+                "fullName": "Carl Folke",
+                "orcId": "0000-0002-8755-7295",
+                "roleEn": "Principal Investigator",
+                "roleSv": "Projektledare",
+                "gender": "Male"
+            },
+            {
+                "personId": "54127",
+                "fullName": "Tomas Chaigneau",
+                "orcId": "0000-0002-0874-216X",
+                "roleEn": "Co-Investigator",
+                "roleSv": "Projektdeltagare",
+                "gender": "Male"
+            },
+            {
+                "personId": "57252",
+                "fullName": "Juan Rocha Gordo",
+                "orcId": "0000-0003-2322-5459",
+                "roleEn": "Co-Investigator",
+                "roleSv": "Projektdeltagare",
+                "gender": "Male"
+            }
+        ],
+        "scbs": [
+            {
+                "scb5Id": "10502",
+                "scb5NameSv": "Milj\u00f6vetenskap",
+                "scb5NameEn": "Environmental Sciences",
+                "scb3Id": "105",
+                "scb3NameSv": "Geovetenskap och milj\u00f6vetenskap",
+                "scb3NameEn": "Earth and Related Environmental Sciences",
+                "scb1Id": "1",
+                "scb1NameSv": "Naturvetenskap",
+                "scb1NameEn": "Natural Sciences"
+            },
+            {
+                "scb5Id": "40504",
+                "scb5NameSv": "Milj\u00f6- och  naturv\u00e5rdsvetenskap",
+                "scb5NameEn": "Environmental Sciences related to Agriculture and Land-use",
+                "scb3Id": "405",
+                "scb3NameSv": "Annan lantbruksvetenskap ",
+                "scb3NameEn": "Other Agricultural Sciences",
+                "scb1Id": "4",
+                "scb1NameSv": "Lantbruksvetenskap och veterin\u00e4rmedicin",
+                "scb1NameEn": "Agricultural and Veterinary Sciences"
+            },
+            {
+                "scb5Id": "50901",
+                "scb5NameSv": "Tv\u00e4rvetenskapliga studier inom samh\u00e4llsvetenskap",
+                "scb5NameEn": "Social Sciences Interdisciplinary",
+                "scb3Id": "509",
+                "scb3NameSv": "Annan samh\u00e4llsvetenskap",
+                "scb3NameEn": "Other Social Sciences",
+                "scb1Id": "5",
+                "scb1NameSv": "Samh\u00e4llsvetenskap",
+                "scb1NameEn": "Social Sciences"
+            }
+        ],
+        "score": 0.08263619798272456
+    },
+    {
+        "projectId": "2019-00242_VR",
+        "projectTitleSv": "Svensk Biodiversitetsdatainfrastruktur",
+        "projectTitleEn": "Swedish Biodiversity Data Infrastructure",
+        "projectAbstractSv": "F\u00f6r\u00e4ndringar i milj\u00f6n p\u00e5verkar m\u00e5nga organismer och deras samspel. F\u00f6r att kunna f\u00f6ruts\u00e4ga dessa effekter beh\u00f6ver vi f\u00f6rst\u00e5 hur v\u00e5ra ekosystem fungerar, och hur de svarar p\u00e5 olika f\u00f6r\u00e4ndringar. Det finns idag stora m\u00e4ngder data om v\u00e5r biologiska m\u00e5ngfald som \u00e4r relevanta f\u00f6r att studera dessa fr\u00e5gor, men de \u00e4r delvis sv\u00e5r\u00e5tkomliga och knepiga att analysera tillsammans med andra milj\u00f6variabler. Dessutom tillkommer det hela tiden nya typer av data, och de \u00f6kande datam\u00e4ngderna st\u00e4ller stora krav p\u00e5 ber\u00e4kningskapacitet.Svensk biodiversitetsdatainfrastruktur (SBDI) \u00e4r en nationell forskningsinfrastruktur som kommer att g\u00f6ra data om biologisk m\u00e5ngfald mer tillg\u00e4ngliga. SBDI kommer att erbjuda fr\u00e4mst forskare, men \u00e4ven andra anv\u00e4ndare, kraftfulla verktyg f\u00f6r att modellera och analysera ekosystemprocesser p\u00e5 lokal, regional och global niv\u00e5. SBDI f\u00f6renar de nuvarande infrastrukturerna Svenska LifeWatch (SLW) och Svensk Biodiversitetsatlas (BAS).SBDI g\u00f6r det l\u00e4tt f\u00f6r forskare att integrera data om biologisk m\u00e5ngfald med information om klimat, jordm\u00e5n, ekonomisk aktivitet eller andra faktorer som \u00e4r av vikt f\u00f6r att f\u00f6rst\u00e5 hur ekosystemen fungerar, hur de f\u00f6r\u00e4ndras \u00f6ver tid och hur de p\u00e5verkas av m\u00e4nniskan. Ett axplock av s\u00e5dan forskning som anv\u00e4nt svenska data eller involverat svenska forskare \u00e4r studier som har:analyserat hur \u201cklimatskulden\u201d (den f\u00f6rdr\u00f6jda effekten av klimatf\u00f6r\u00e4ndringar) p\u00e5verkar arternas chanser att \u00f6verleva,belyst m\u00f6nster i spridningen av invasiva marina arter,lokaliserat intressanta genetiska varianter f\u00f6r f\u00f6r\u00e4dling av s\u00e4desslag,visat hur f\u00f6r\u00e4ndringar i skogens struktur p\u00e5verkar skogens f\u00e5glar,analyserat hur mikroorganismer levererar ekosystemtj\u00e4nster f\u00f6r oss m\u00e4nniskor,samt f\u00f6rutsagt risken f\u00f6r Ebola-utbrott i Kongo med hj\u00e4lp av fladdermusdata.I slut\u00e4ndan genererar den h\u00e4r forskningen kritisk kunskap f\u00f6r att vi ska kunna m\u00f6ta m\u00e4nsklighetens stora utmaningar, sammanfattade i FNs globala utvecklingsm\u00e5l.Som en v\u00e4sentlig del i SBDI ing\u00e5r GBIF Sweden, den svenska noden i det internationella n\u00e4tverket Global Biodiversity Information Facility (GBIF). Sedan 18 \u00e5r samlar GBIF data om biologisk m\u00e5ngfald fr\u00e5n v\u00e4rldens alla h\u00f6rn och g\u00f6r den tillg\u00e4nglig f\u00f6r forskning. Den globala GBIF-portalen omfattar idag 1.1 miljarder poster med information om 1.7 miljoner arter. GBIF Sweden mobiliserar lokala och ibland sv\u00e5r\u00e5tkomliga svenska data och levererar dessa till GBIF i ett standardiserat format. Sverige \u00e4r det land som publicerar flest dataposter per capita, och vi har ofta varit tidigt ute med att samla in och tillg\u00e4ngligg\u00f6ra nya vetenskapligt v\u00e4rdefulla data. Intresset \u00e4r stort. I genomsnitt laddas samtliga 82 miljoner svenska GBIF-poster ned varje dygn, och tre av de tio mest citerade dataseten \u00e4r svenska.Det r\u00e4cker inte med stora m\u00e4ngder data. F\u00f6r att vi ska f\u00f6rst\u00e5 vad som h\u00e4nder med v\u00e5ra ekosystem beh\u00f6vs det ocks\u00e5 bra verktyg f\u00f6r att analysera och visualisera informationen. De avancerade verktyg som SBDI kommer att tillhandah\u00e5lla bygger delvis p\u00e5 arbete som tidigare bedrivits inom SLW och delvis p\u00e5 internationellt samarbete inom Living Atlases (LA) communityn. LA b\u00f6rjade 2009 som en stor australiensisk satsning p\u00e5 infrastruktur f\u00f6r forskning om biologisk m\u00e5ngfald. Beslutet att satsa p\u00e5 \u00f6ppen k\u00e4llkod gjorde systemet popul\u00e4rt i andra l\u00e4nder. Samarbetet inom LA inneb\u00e4r att SBDI kan erbjuda svenska forskare en betydligt mer avancerad och kostnadseffektiv infrastruktur \u00e4n vad som annars hade varit m\u00f6jligt.SBDI kommer att bidra p\u00e5 ett avg\u00f6rande s\u00e4tt till utvecklingen av LA-plattformen, bland annat genom att ta fram teknik f\u00f6r snabbare mobilisering och effektivare lagring av data, och b\u00e4ttre systemintegrering mellan LA-system och nationella l\u00f6sningar. SBDI f\u00f6r ocks\u00e5 utvecklingen fram\u00e5t inom flera omr\u00e5den d\u00e4r Sverige \u00e4r framst\u00e5ende internationellt: biotelemetriska data, arkeologiska milj\u00f6data, data fr\u00e5n systematiska \u00f6vervakningsprogram som Svensk f\u00e5geltaxering och Riksskogstaxeringen, samt data fr\u00e5n genetiska analyser av milj\u00f6prover. Ge",
+        "projectAbstractEn": "Driven by scientific opportunity and societal challenges, biodiversity and ecosystems research are rapidly developing into big-data sciences, enabling researchers to model processes that affect entire biotas and to predict system-wide effects of environmental change. The Swedish Biodiversity Data Infrastructure (SBDI), supported by eleven partner organizations, will be the key e-infrastructure driving this transition in Sweden. SBDI will mobilize data from a wide range of sources into a single Swedish biodiversity data layer, and provide access, analysis and visualization services offering the research community rich opportunities for innovative, interdisciplinary research on biodiversity and ecosystems. This research is of vital importance for society\u00b4s ability to reach the sustainable development goals outlined by the United Nations.A core mission of SBDI is to support Open Science and the FAIR (Findable, Accessible, Interoperable, Reusable) principles in biodiversity and ecosystems research. Technically, SBDI is based on open-source software developed in international collaboration within the Global Biodiversity Informatics Facility (GBIF) and Living Atlases (LA) communities, and on tools developed within the Swedish LifeWatch and Biodiversity Atlas Sweden infrastructures. SBDI contributions to the LA developer community will focus on Swedish areas of excellence: system integration, near-real-time data mobilization, marine biodiversity, natural history collections data, systematic monitoring programs, biotelemetry, microbial diversity (prokaryotes, unicellular eukaryotes, and microscopic fungi), palaeoecology and molecular biodiversity data. SBDI will accelerate progress in these areas, and open up exciting new possibilities for integrative analyses of biodiversity and ecosystem services. SBDI will serve as the Swedish node in GBIF and as an observer in the LifeWatch ERIC through the Nordic LifeWatch collaboration.",
+        "projectStartDate": "2021-01-01 00:00:00",
+        "projectEndDate": "2024-12-31 00:00:00",
+        "coordinatingOrganisationId": "202100-1124",
+        "coordinatingOrganisationNameSv": "Naturhistoriska riksmuseet",
+        "coordinatingOrganisationNameEn": "Naturhistoriska riksmuseet",
+        "coordinatingOrganisationTypeOfOrganisationSv": "Stat, regioner, kommuner, f\u00f6rsamlingar",
+        "coordinatingOrganisationTypeOfOrganisationEn": "Governmental",
+        "fundingOrganisationId": "202100-5208",
+        "fundingOrganisationNameSv": "Vetenskapsr\u00e5det",
+        "fundingOrganisationNameEn": "Swedish Research Council",
+        "fundingOrganisationTypeOfOrganisationSv": "Stat, regioner, kommuner, f\u00f6rsamlingar",
+        "fundingOrganisationTypeOfOrganisationEn": "Governmental",
+        "fundingsSek": 32000000,
+        "fundingYear": "2021",
+        "fundingStartDate": "2021-01-01",
+        "fundingEndDate": "2024-12-31",
+        "typeOfAwardId": 5,
+        "typeOfAwardDescrSv": "Forskningsinfrastruktur",
+        "typeOfAwardDescrEn": "Research infrastructure",
+        "updatedDate": null,
+        "loadedDate": "Sep  8 2023  5:12AM",
+        "peopleList": [
+            {
+                "personId": "69682",
+                "fullName": "Fredrik Ronquist",
+                "orcId": "0000-0002-3929-251X",
+                "roleEn": "Principal Investigator",
+                "roleSv": "Projektledare",
+                "gender": "Male"
+            }
+        ],
+        "scbs": [
+            {
+                "scb5Id": "10610",
+                "scb5NameSv": "Bioinformatik och systembiologi",
+                "scb5NameEn": "Bioinformatics and Systems Biology",
+                "scb3Id": "106",
+                "scb3NameSv": "Biologi (Medicinska till\u00e4mpningar under 3 och lantbruksvetenskapliga under 4)",
+                "scb3NameEn": "Biological Sciences\u00a0\u00a0(Medical to be 3 and Agricultural to be 4)",
+                "scb1Id": "1",
+                "scb1NameSv": "Naturvetenskap",
+                "scb1NameEn": "Natural Sciences"
+            },
+            {
+                "scb5Id": "10611",
+                "scb5NameSv": "Ekologi",
+                "scb5NameEn": "Ecology",
+                "scb3Id": "106",
+                "scb3NameSv": "Biologi (Medicinska till\u00e4mpningar under 3 och lantbruksvetenskapliga under 4)",
+                "scb3NameEn": "Biological Sciences\u00a0\u00a0(Medical to be 3 and Agricultural to be 4)",
+                "scb1Id": "1",
+                "scb1NameSv": "Naturvetenskap",
+                "scb1NameEn": "Natural Sciences"
+            }
+        ],
+        "score": 0.08130912268009949
+    },
+    {
+        "projectId": "2020-01071_Formas",
+        "projectTitleSv": "COAST-LAND \u2013 Konnektivitet mellan s\u00f6tvatten och kusthabitat: effekter och \u00e5terkopplingar av m\u00e4nsklig p\u00e5verkan och klimatf\u00f6r\u00e4ndringar",
+        "projectTitleEn": "COAST-LAND - Connectivity between inland waters and coastal habitats: effects and feedbacks of anthropogenic pressures and climate change",
+        "projectAbstractSv": "Diadroma fiskar vistas delar av sina liv i b\u00e5de saltvatten och s\u00f6tvatten. Det finns flera f\u00f6rdelar med detta, till exempel kan fisken undvika predation eller f\u00e5 \u00f6kad tillv\u00e4xt p\u00e5 grund av snabba temperatur\u00f6kningar i s\u00f6tvatten, medan det kanske finns b\u00e4ttre tillg\u00e5ng p\u00e5 f\u00f6da f\u00f6r st\u00f6rre individer i havet. De flesta av v\u00e5ra diadroma arter \u00e4r beroende av att kunna reproducera sig i s\u00f6tvatten vilket g\u00f6r att behovet av fria vandringsv\u00e4gar mellan s\u00f6tvatten och kustomr\u00e5dena \u00e4r fundamentalt. Exempel p\u00e5 viktiga kustarter i \u00d6stersj\u00f6n som vandrar mellan s\u00f6tt och salt \u00e4r abborre, g\u00e4dda, \u00f6ring, lake och m\u00f6rt. Best\u00e5nden av diadroma fiskar har sjunkit kraftigt, och den mest troliga anledningen \u00e4r f\u00f6rlust av reproduktionsomr\u00e5den.Ett problem \u00e4r att s\u00f6tvatten och marina milj\u00f6er ofta studeras och f\u00f6rvaltas som separata ekosystem. Milj\u00f6erna \u00e4r dock starkt sammankopplade och f\u00f6rvaltningen m\u00e5ste anpassas d\u00e4refter. Detta projekt bygger p\u00e5 en ekosystem\u00f6verskridande analys d\u00e4r vi genom att nyttja omfattande databaser, GIS-modeller och fr\u00e5n f\u00e4lt insamlad data \u00e4mnar unders\u00f6ka vilken effekt p\u00e5verkansfaktorer i s\u00f6tvatten tillsammans med de i kustmilj\u00f6erna har p\u00e5 v\u00e5ra diadroma fiskarter.M\u00e4nsklig p\u00e5verkan p\u00e5 v\u00e5ra vattendrag, kustn\u00e4ra v\u00e5tmarker och kuster \u00f6kar p\u00e5 grund av befolkningstillv\u00e4xt, \u00f6kad exploatering och bebyggelse. P\u00e5 kusten p\u00e5verkas milj\u00f6erna av t ex \u00f6verg\u00f6dning, fiske, f\u00f6r\u00e4ndrade f\u00f6dov\u00e4var och f\u00f6r\u00e4ndrade kustlandskap. I s\u00f6tvatten r\u00e5der andra p\u00e5verkansfaktorer, som vattenkraftsreglering, fragmentering, habitatf\u00f6rlust och kemisk f\u00f6rorening. Tillsammans p\u00e5verkar dessa faktorer de diadroma fiskbest\u00e5nden, men vi vet i dagsl\u00e4get inte i vilken omfattning. I COAST-LAND kommer vi att unders\u00f6ka hur p\u00e5verkan fr\u00e5n respektive milj\u00f6 styr abundansen hos n\u00e5gra nyckelarter av fisk.Vi kommer att:kvantifiera tillg\u00e4ngliga reproduktionsmilj\u00f6er i specifika omr\u00e5den l\u00e4ngs med kusterna och relatera det till fiskabundans. Vi hypotiserar att i) m\u00e4ngden tillg\u00e4ngliga reproduktionsomr\u00e5den \u00e5terspeglar abundansen av anadrom (s\u00f6tvattenlekande) fisk som finns i n\u00e4rheten, och i) att dessa reproduktionsmilj\u00f6ers betydelse \u00f6kar norrut, d\u00e4r l\u00e5ga temperaturer kan begr\u00e4nsa rekrytering.Unders\u00f6ka hur p\u00e5verkanstryck i havet p\u00e5verkar abundansen av fisk i s\u00f6tvatten, och vice versa, genom att kvantifiera och unders\u00f6ka b\u00e5de direkta effekter och potentiella \u00e5terkopplingseffekter av f\u00f6rlust av reproduktionsomr\u00e5den, fragmentering p\u00e5 grund av floddammning, \u00f6verg\u00f6dning, and f\u00f6r\u00e4ndrade f\u00f6dov\u00e4var. F\u00f6r att besvara detta kommer vi unders\u00f6ka nationella fiskdatabaser fr\u00e5n s\u00f6tvatten och kustvatten med spatial modellering och stig-analys (path analysis) f\u00f6r att studera b\u00e5de direkta och indirekta samband.F\u00f6rutom den system\u00f6verskridande analysen kommer vi ocks\u00e5 att unders\u00f6ka hur klimatf\u00f6r\u00e4ndringar kan orsaka f\u00f6rskjutningar i populationer mellan kust och s\u00f6tvatten. Klimatf\u00f6r\u00e4ndringarna kommer i framtiden att leda till f\u00f6r\u00e4ndrade temperatur-, salinitets- och nederb\u00f6rdsm\u00f6nster. \u00c4ven de hydrologiska m\u00f6nstren i vattendragen och hav kommer att f\u00f6r\u00e4ndras i och med havsniv\u00e5h\u00f6jningar i s\u00f6dra Sverige och landh\u00f6jning i norra. Det g\u00f6r att framtidens tillg\u00e5ng p\u00e5 kustn\u00e4ra v\u00e5tmarker och andra reproduktionsomr\u00e5den kan f\u00f6r\u00e4ndras. Hur kommer detta att p\u00e5verka m\u00e4ngden tillg\u00e4ngliga habitat och dess inv\u00e5nare? Samtidigt r\u00e5der stor brist p\u00e5 konnektivitet mellan s\u00f6tvatten och kusterna, framf\u00f6r allt genom vandringshinder i form av dammar, och v\u00e4gtrummor i vattendragen. Eftersom klimatf\u00f6r\u00e4ndringarna kommer att leda till b\u00e5de temporala och spatiala f\u00f6rskjutningar i organismers livsmilj\u00f6er st\u00e4lls stora krav p\u00e5 god konnektivitet s\u00e5 att arter kan f\u00f6rflytta och etablera sig i takt med att milj\u00f6erna f\u00f6r\u00e4ndras. Vi kommer att bed\u00f6ma och predicera hur klimatf\u00f6r\u00e4ndringarna kommer att f\u00f6r\u00e4ndra samh\u00e4llena av kustfisk \u00f6ver tid.Projektet kommer att ge kunskap om hur p\u00e5verkansfaktorer i s\u00f6t- respektive saltvatten tillsammans reglerar best\u00e5nden f\u00f6r diadroma fiskarter. Resultaten kommer att ge \u00f6kad f\u00f6rst\u00e5else f\u00f6r hur en integrerad f\u00f6rvaltning av s\u00f6\u00a0 t-",
+        "projectAbstractEn": "Diadromous fish populations are subject to multiple anthropogenic pressures both inland and at sea, including climate change, and are decreasing in the Baltic Sea. Conservation and restoration efforts are hindered by the fact that freshwater and marine ecosystems are typically studied and managed individually. Our project aims at improving the management of diadromous fish populations in the Baltic Sea by 1) understanding cross-system effects and feedbacks of multiple pressures in coastal and inland waters, and 2) assessing and predicting effects of climate change on the spatial and temporal connectivity between coastal and inland waters.By using extensive datasets from the whole Sweden on fish abundance in inland and coastal waters, complemented by GIS data and fieldwork data collected in target areas, we will focus on the decrease in spatial connectivity caused by the loss of suitable freshwater spawning areas and by river damming, and the cross-system effects of nutrient pollution, habitat degradation and fishing on diadromous fish populations in the Baltic Sea. We will also assess the risk for spatial and temporal decoupling between freshwater and coastal habitats for diadromous fish under climate change scenarios.The results will contribute to the integrated management of coastal and freshwaters as a single unit, by advising on where the most sensitive areas are and what measures are most effective for maintaining or restoring viable populations of diadromous fish.",
+        "projectStartDate": "2021-01-01 00:00:00",
+        "projectEndDate": "2023-12-31 00:00:00",
+        "coordinatingOrganisationId": "202100-2817",
+        "coordinatingOrganisationNameSv": "Sveriges lantbruksuniversitet",
+        "coordinatingOrganisationNameEn": "Swedish University of Agricultural Sciences",
+        "coordinatingOrganisationTypeOfOrganisationSv": "Universitet",
+        "coordinatingOrganisationTypeOfOrganisationEn": "University",
+        "fundingOrganisationId": "202100-5232",
+        "fundingOrganisationNameSv": "Formas",
+        "fundingOrganisationNameEn": "Formas",
+        "fundingOrganisationTypeOfOrganisationSv": "Stat, regioner, kommuner, f\u00f6rsamlingar",
+        "fundingOrganisationTypeOfOrganisationEn": "Governmental",
+        "fundingsSek": 2947000,
+        "fundingYear": "2021",
+        "fundingStartDate": "2021-01-01",
+        "fundingEndDate": "2023-12-31",
+        "typeOfAwardId": 1,
+        "typeOfAwardDescrSv": "Projektbidrag",
+        "typeOfAwardDescrEn": "Project grant",
+        "updatedDate": null,
+        "loadedDate": "Sep  8 2023  5:13AM",
+        "peopleList": [
+            {
+                "personId": "53340",
+                "fullName": "Rebecca Whitlock",
+                "orcId": "0000-0003-0058-634X",
+                "roleEn": "Co-Investigator",
+                "roleSv": "Projektdeltagare",
+                "gender": "Female"
+            },
+            {
+                "personId": "53772",
+                "fullName": "Ulf Bergstr\u00f6m",
+                "orcId": "0000-0002-5478-0634",
+                "roleEn": "Co-Investigator",
+                "roleSv": "Projektdeltagare",
+                "gender": "Male"
+            },
+            {
+                "personId": "57187",
+                "fullName": "Serena Donadi",
+                "orcId": "0000-0002-8920-9630",
+                "roleEn": "Principal Investigator",
+                "roleSv": "Projektledare",
+                "gender": "Female"
+            }
+        ],
+        "scbs": [
+            {
+                "scb5Id": "10611",
+                "scb5NameSv": "Ekologi",
+                "scb5NameEn": "Ecology",
+                "scb3Id": "106",
+                "scb3NameSv": "Biologi (Medicinska till\u00e4mpningar under 3 och lantbruksvetenskapliga under 4)",
+                "scb3NameEn": "Biological Sciences\u00a0\u00a0(Medical to be 3 and Agricultural to be 4)",
+                "scb1Id": "1",
+                "scb1NameSv": "Naturvetenskap",
+                "scb1NameEn": "Natural Sciences"
+            }
+        ],
+        "score": 0.06896705245174757
+    },
+    {
+        "projectId": "2021-01590_Formas",
+        "projectTitleSv": "Norra Gr\u00f6nlandsisens bidrag till havsniv\u00e5\u00f6kningen i varmare klimat",
+        "projectTitleEn": "Sea-level rise contribution from the North Greenland Ice Sheet in a warming climate",
+        "projectAbstractSv": "Att f\u00f6ruts\u00e4ga hur jordens stora inlandsisar och glacier som kommer i kontakt med havet kommer att sm\u00e4lta om klimatet forts\u00e4tter att v\u00e4rmas upp utg\u00f6r en stor geovetenskaplig och samh\u00e4llelig utmaning. Dessa isar brukar klassas till den marina kryosf\u00e4ren och deras svar p\u00e5 klimatuppv\u00e4rmningen \u00e4r ofta abrupta och snabba snarare \u00e4n l\u00e5ngsamt j\u00e4mt utdragna, d\u00e5 komplexa processer uppst\u00e5r i samspelet mellan hav och is. Det kan t.ex. vara underminering av en glaci\u00e4r som mynnar ut i havet fr\u00e5n infl\u00f6den av varmare havsvatten. En s\u00e5dan underminering kan leda till \u00f6kad kalvning av isberg d\u00e5 glaci\u00e4ren blir tunnare, vilket i sin tur kan leda till att glaci\u00e4ren \u00f6kar sitt fl\u00f6de och exporterar mer is ut i havet. Den specialrapport som utkom 2019 fr\u00e5n FN:s klimatpanel IPCC handlar om havet och kryosf\u00e4ren i ett f\u00f6r\u00e4nderligt klimat. Rapporten betonar att massf\u00f6rlusten fr\u00e5n kalvning och sm\u00e4ltning av Gr\u00f6nlands och Antarktis glaci\u00e4rer som kommer i kontakt med havet utg\u00f6r en av de st\u00f6rsta os\u00e4kerheterna i prognoser \u00f6ver den framtida havsniv\u00e5h\u00f6jningen. Senare forskningsrapporter har dessutom p\u00e5pekat att IPCC:s prognoser avseende havsniv\u00e5ns utveckling \u00e4r f\u00f6r konservativa d\u00e5 de inte har med potentiellt viktiga mekanismer, vilka kan leda till snabb massf\u00f6rlust av isar som m\u00f6ter havet. Det \u00e4r tvekl\u00f6st s\u00e5 att en fortsatt havsniv\u00e5h\u00f6jning orsakad av global uppv\u00e4rmning utg\u00f6r ett kritiskt problem f\u00f6r befolkningar, infrastrukturer och \u00e4ven k\u00e4nsliga ekosystem runt om hela jordens l\u00e5gl\u00e4nta kuster. Det \u00e4r d\u00e4rf\u00f6r av yttersta vikt att ta fram havsniv\u00e5prognoser som b\u00e4ttre tar den marina kryosf\u00e4rens komplexitet med i ber\u00e4kningen.Sm\u00e4ltning av Gr\u00f6nlandsisen svarar idag f\u00f6r en fj\u00e4rdedel av den globala havsniv\u00e5h\u00f6jningen och dess bidrag f\u00f6rv\u00e4ntas v\u00e4xa. Gr\u00f6nlandsisen \u00e4r indelad i sektorer baserade p\u00e5 dr\u00e4neringsomr\u00e5den och den norra sektorn har en massa motsvarande mer \u00e4n en meter av den globala havsniv\u00e5n om allt skulle sm\u00e4lta. Det \u00e4r dock inte n\u00e4ra f\u00f6rest\u00e5ende, utan det \u00e4r fr\u00e4mst d\u00e4r isen m\u00f6ter havet l\u00e4ngs kusten som f\u00f6rlusten av is kan ske snabbare. En faktor som kan accelerera massf\u00f6rlust av is \u00e4r om de utl\u00f6parglaci\u00e4rer som d\u00e4r dr\u00e4nerar isen ut mot havet forts\u00e4tter att f\u00f6rlora sina stabiliserande flytande istungor. Detta kan resultera i att isen p\u00e5 Nordgr\u00f6nland b\u00f6rjar fl\u00f6da mot havet lika snabbt som nu sker f\u00f6r flera sydligare Gr\u00f6nl\u00e4ndska glaci\u00e4rer.Vi f\u00f6resl\u00e5r med detta projekt en detaljerad modelleringsstudie f\u00f6r att unders\u00f6ka hur den norra Gr\u00f6nlandsisen kommer att utvecklas under ett varmare klimat fram till \u00e5r 2300 och uppskatta hur dess avsm\u00e4ltning kommer att bidra till den globala havsniv\u00e5\u00f6kningen. Basen f\u00f6r unders\u00f6kningen \u00e4r en numerisk ismodell som kan simulera hur Gr\u00f6nlandsisen \u2013 dess dynamik och utstr\u00e4ckning \u2013 utvecklas under klimatuppv\u00e4rmning. Projektet ska testa olika klimatscenarier baserade p\u00e5 IPCC:s klimatprojektioner, vilka kallas f\u00f6r \u201d Representative Concentration Pathways (RCP)\u201d och tar h\u00e4nsyn till b.la. hur mycket vi lyckas begr\u00e4nsa v\u00e5ra utsl\u00e4pp av koldioxid. Vi planerar att unders\u00f6ka utvecklingen under RCP 2.6, 4.5, 6 och 8.5. Numren anger den str\u00e5lningsdrivning av v\u00e4xthuseffekten som uppn\u00e5s \u00e5r 2100 m\u00e4tt i Watt per kvadratmeter (W m-2). En viktig del av projektet omfattar att ta med och dra l\u00e4rdom av nya f\u00e4ltdata fr\u00e5n norra Gr\u00f6nland, som \u00e4r insamlade under v\u00e5ra tv\u00e5 tidigare expeditioner med isbrytaren Oden \u00f6ver havsbottentopografin och havtemperaturer. Dessa observationer kommer att utnyttjas f\u00f6r att modellera hur havstemperaturen i fjordar med utl\u00f6parglaci\u00e4rer kommer att f\u00f6r\u00e4ndras n\u00e4r havstemperaturen i den \u00f6ppna Arktiska oceanen stiger. Detta kommer att ge en f\u00f6rb\u00e4ttrad och mer realistisk bild av hur varmare havsvatten kommer i kontakt med de flytande istungorna och sm\u00e4lter dem. Processer knutna till sm\u00e4ltning och kalvning av istungorna \u00e4r avg\u00f6rande f\u00f6r den Nordgr\u00f6nl\u00e4ndska inlandsisens utveckling, stabilitet och framtida bidrag till global havsniv\u00e5\u00f6kning. Projektet ing\u00e5r i forskningstemat \u201dNorra Gr\u00f6nland: Ett Jord-Hav-Ekosystem observatorium\u201d antaget av P",
+        "projectAbstractEn": "Sea-level rise caused by global warming is a serious threat to large populations and vital economic infrastructures concentrated along the coastlines. Melting of the Greenland Ice Sheet (GrIS) is currently responsible for a quarter of the observed sea-level rise, and its contribution is expected to grow. The northern sector of the GrIS holds over one meter of global sea level; if its outlets glaciers continue to lose their buttressing ice tongues they can begin to flow as rapidly as their more southerly counterparts of the Ice Sheet. Here, we propose a detailed modelling study of the response of the North GrIS to rising temperatures until year 2300, based on IPPC climate modelling projections. A state-of-the-art numerical model will be used to simulate the ice sheet and its marine outlet glaciers in fjords. New and unique bathymetric and oceanographic data will constrain the model, and dictate how warm ocean waters in contact with the ice tongues melt ice. The project forms a part of the North Greenland Earth-Ocean-Ecosystem Observatory (GEOEO) Research Theme, adopted by the Swedish Polar Research Secretariat. GEOEO includes an expedition with Icebreaker Oden in 2024, during which we propose to collect new field data further constraining the ice-sheet modelling in unsurveyed fjords and areas off North Greenland. A particular aim of the future modelling projections is to examine if a compliance with the Paris Agreement is enough to halt the mass loss from the North GrIS.",
+        "projectStartDate": "2022-01-01 00:00:00",
+        "projectEndDate": "2024-12-31 00:00:00",
+        "coordinatingOrganisationId": "202100-3062",
+        "coordinatingOrganisationNameSv": "Stockholms universitet",
+        "coordinatingOrganisationNameEn": "Stockholm University",
+        "coordinatingOrganisationTypeOfOrganisationSv": "Universitet",
+        "coordinatingOrganisationTypeOfOrganisationEn": "University",
+        "fundingOrganisationId": "202100-5232",
+        "fundingOrganisationNameSv": "Formas",
+        "fundingOrganisationNameEn": "Formas",
+        "fundingOrganisationTypeOfOrganisationSv": "Stat, regioner, kommuner, f\u00f6rsamlingar",
+        "fundingOrganisationTypeOfOrganisationEn": "Governmental",
+        "fundingsSek": 2999900,
+        "fundingYear": "2022",
+        "fundingStartDate": "2022-01-01",
+        "fundingEndDate": "2024-12-31",
+        "typeOfAwardId": 1,
+        "typeOfAwardDescrSv": "Projektbidrag",
+        "typeOfAwardDescrEn": "Project grant",
+        "updatedDate": null,
+        "loadedDate": "Sep  8 2023  5:13AM",
+        "peopleList": [
+            {
+                "personId": "71368",
+                "fullName": "Johan Nilsson",
+                "orcId": "0000-0002-9591-124X",
+                "roleEn": "Co-Investigator",
+                "roleSv": "Projektdeltagare",
+                "gender": "Male"
+            },
+            {
+                "personId": "69480",
+                "fullName": "Nina Kirchner",
+                "orcId": "0000-0002-6371-5527",
+                "roleEn": "Co-Investigator",
+                "roleSv": "Projektdeltagare",
+                "gender": "Female"
+            },
+            {
+                "personId": "50689",
+                "fullName": "Martin Jakobsson",
+                "orcId": "0000-0002-9033-3559",
+                "roleEn": "Principal Investigator",
+                "roleSv": "Projektledare",
+                "gender": "Male"
+            }
+        ],
+        "scbs": [
+            {
+                "scb5Id": "10501",
+                "scb5NameSv": "Klimatforskning",
+                "scb5NameEn": "Climate Research",
+                "scb3Id": "105",
+                "scb3NameSv": "Geovetenskap och milj\u00f6vetenskap",
+                "scb3NameEn": "Earth and Related Environmental Sciences",
+                "scb1Id": "1",
+                "scb1NameSv": "Naturvetenskap",
+                "scb1NameEn": "Natural Sciences"
+            },
+            {
+                "scb5Id": "10505",
+                "scb5NameSv": "Geofysik",
+                "scb5NameEn": "Geophysics",
+                "scb3Id": "105",
+                "scb3NameSv": "Geovetenskap och milj\u00f6vetenskap",
+                "scb3NameEn": "Earth and Related Environmental Sciences",
+                "scb1Id": "1",
+                "scb1NameSv": "Naturvetenskap",
+                "scb1NameEn": "Natural Sciences"
+            },
+            {
+                "scb5Id": "10509",
+                "scb5NameSv": "Oceanografi, hydrologi och vattenresurser",
+                "scb5NameEn": "Oceanography, Hydrology and Water Resources",
+                "scb3Id": "105",
+                "scb3NameSv": "Geovetenskap och milj\u00f6vetenskap",
+                "scb3NameEn": "Earth and Related Environmental Sciences",
+                "scb1Id": "1",
+                "scb1NameSv": "Naturvetenskap",
+                "scb1NameEn": "Natural Sciences"
+            }
+        ],
+        "score": 0.06325943431780984
+    },
+    {
+        "projectId": "2022-03112_Vinnova",
+        "projectTitleSv": "\u00d6kad kompetens f\u00f6r framtidens h\u00e5llbara marina industri: Materialsystem (EMINENT 1/2)",
+        "projectTitleEn": "Enhancing Competence for Future Sustainable MarINE iNdusTry: Material Selection (EMINENT 1/2)",
+        "projectAbstractSv": "Syfte och m\u00e5l:\r\nDe flesta materialssystem f\u00f6r fritidsb\u00e5tar baseras p\u00e5 thermosetplast som tillsammans med glas- eller kolfiber skapar ett \u201dkompositmaterial\u201d. Thermosetplast \u00e4r sv\u00e5r att \u00e5tervinna och f\u00f6rbrukade b\u00e5tar eldas upp eller dumpas i naturen. M\u00e5let f\u00f6r detta projekt \u00e4r att b\u00e4dda in den s\u00f6kande hos en innovativ b\u00e5ttillverkare, f\u00f6r att med st\u00f6d i deras kravbild unders\u00f6ka f\u00f6ruts\u00e4ttningarna f\u00f6r mer h\u00e5llbara, biobaserade materialsystem, f\u00f6resl\u00e5 ett framtida alternativ samt skapa grund f\u00f6r fortsatta forskningsprojekt.\r\n\r\nF\u00f6rv\u00e4ntade effekter och resultat:\r\nProjektet kommer st\u00f6tta det specifika f\u00f6retaget att n\u00e5 sin h\u00e5llbarhetsvision men \u00e4ven marinsektorn i stort eftersom det visar p\u00e5 ett h\u00e5llbart alternativ. Samtidigt \u00f6kas forskarens kunskap om industrins f\u00f6ruts\u00e4ttningar och avancerade, h\u00e5llbara material och deras tillverkningsprocesser. Insikterna kommer ligga till grund f\u00f6r gemensamma forskningsans\u00f6kningar och resultaten inf\u00f6rlivas i undervisning p\u00e5 Link\u00f6pings universitet, vilket inneb\u00e4r en starkare innovationsmilj\u00f6 inom h\u00e5llbara material i Sverige, samt \u00f6kad kompetens hos framtidens ingenj\u00f6rer.\r\n\r\nUppl\u00e4gg och genomf\u00f6rande:\r\nForskaren kommer tillbringa en dag i veckan p\u00e5 f\u00f6retaget f\u00f6r att under ett \u00e5rs tid samla in data, genomf\u00f6ra arbetsm\u00f6ten och f\u00f6rankra projektets resultat. Viss tid kommer tillbringas p\u00e5 universitetet f\u00f6r att g\u00e5 igenom omr\u00e5dets forskningsfront och f\u00f6rbereda seminarier. Examensarbeten, studentprojekt och bes\u00f6k kommer planeras f\u00f6r att sprida resultaten i utbildning.",
+        "projectAbstractEn": "Purpose and goal:\r\nMost material systems for leisure boats are based on thermoset plastic with glass or carbon fiber reinforcements, forming a so-called composite material. Thermoset composites are difficult to recycle, and used boats are burnt or dumped. The goal of this project is to immerse the researcher in the setting of an innovative leisure boat manufacturer, so that the researcher can capture and analyze the industry requirement and prerequisites. A future more sustainable material system will be proposed and future research projects identified.\r\n\r\nExpected results and effects:\r\nThe project will support the specific company\u2019s strategic vision for sustainability as well as the marine industry in general, as it will showcase a sustainable alternative. It will also increase the researcher\u2019s knowledge of the industrial prerequisites and advanced, sustainable materials and their related manufacturing processes. The insights will be incorporated into the research and education at Link\u00f6ping university, and thus strengthen Sweden\u2019s innovation capacity in sustainable materials and the competence of future engineers.\r\n\r\nApproach and implementation:\r\nThe researcher will spend one day a week for a year at the company to collect data, conduct workshops and anchor the results of the project. Time will also be spent at the university to review state-of-art and prepare seminars. Student master thesis, projects or visits will be planned together with the company to spread the results to education.",
+        "projectStartDate": "2022-11-18 00:00:00",
+        "projectEndDate": "2024-05-16 00:00:00",
+        "coordinatingOrganisationId": "202100-3096",
+        "coordinatingOrganisationNameSv": "Link\u00f6pings universitet",
+        "coordinatingOrganisationNameEn": "Link\u00f6ping University",
+        "coordinatingOrganisationTypeOfOrganisationSv": "Universitet",
+        "coordinatingOrganisationTypeOfOrganisationEn": "University",
+        "fundingOrganisationId": "202100-5216",
+        "fundingOrganisationNameSv": "Vinnova",
+        "fundingOrganisationNameEn": "Vinnova",
+        "fundingOrganisationTypeOfOrganisationSv": "Stat, regioner, kommuner, f\u00f6rsamlingar",
+        "fundingOrganisationTypeOfOrganisationEn": "Governmental",
+        "fundingsSek": 499683,
+        "fundingYear": "2022",
+        "fundingStartDate": "2022-01-01",
+        "fundingEndDate": "2023-12-31",
+        "typeOfAwardId": 1,
+        "typeOfAwardDescrSv": "Projektbidrag",
+        "typeOfAwardDescrEn": "Project grant",
+        "updatedDate": null,
+        "loadedDate": "Jun  9 2023  5:09AM",
+        "peopleList": [
+            {
+                "personId": "46641",
+                "fullName": "Mohamed Loukil",
+                "orcId": "",
+                "roleEn": "Principal Investigator",
+                "roleSv": "Projektledare",
+                "gender": "Male"
+            }
+        ],
+        "scbs": [
+            {
+                "scb5Id": "20307",
+                "scb5NameSv": "Produktionsteknik, arbetsvetenskap och ergonomi",
+                "scb5NameEn": "Production Engineering, Human Work Science and Ergonomics",
+                "scb3Id": "203",
+                "scb3NameSv": "Maskinteknik",
+                "scb3NameEn": "Mechanical Engineering",
+                "scb1Id": "2",
+                "scb1NameSv": "Teknik",
+                "scb1NameEn": "Engineering and Technology"
+            },
+            {
+                "scb5Id": "20502",
+                "scb5NameSv": "Kompositmaterial och -teknik",
+                "scb5NameEn": "Composite Science and Engineering",
+                "scb3Id": "205",
+                "scb3NameSv": "Materialteknik",
+                "scb3NameEn": "Materials Engineering",
+                "scb1Id": "2",
+                "scb1NameSv": "Teknik",
+                "scb1NameEn": "Engineering and Technology"
+            }
+        ],
+        "score": 0.06099103714347776
+    },
+    {
+        "projectId": "2023-03771_VR",
+        "projectTitleSv": "Den kambriska \u00b4explosionen\u00b4 av trilobiter: avsl\u00f6jande av drivkrafterna bakom en ikonisk diversifiering av tidiga djur",
+        "projectTitleEn": "The Cambrian \u00b4explosion\u00b4 of trilobites: revealing the drivers behind an iconic early animal radiation",
+        "projectAbstractSv": "Den kambriska \u00b4explosionen\u00b4 \u00e4r en av de viktigaste h\u00e4ndelserna i livets historia. Vid denna tidpunkt upptr\u00e4der pl\u00f6tsligt st\u00f6rre delen av de viktigaste djurgrupperna f\u00f6r f\u00f6rsta g\u00e5ngen p\u00e5 v\u00e5r planet, tillsammans med att de f\u00f6rsta komplexa ekosystemen uppst\u00e5r. V\u00e5r uppfattning av h\u00e4ndelser som den kambriska \u2019explosionen\u2019 begr\u00e4nsas dock av att de fossila avlagringarna inte ger en komplett bild, ett problem som f\u00f6rstoras ju l\u00e4ngre tillbaka i tiden vi g\u00e5r. De flesta av dessa tidiga djurgrupper verkar dessutom ha f\u00e5 fossila motsvarigheter, vilket i sin tur g\u00f6r det sv\u00e5rt att testa hypoteser om deras tidiga evolution. Trilobiter (utd\u00f6da marina leddjur som liknar moderna kr\u00e4ftdjur) \u00e4r undantaget fr\u00e5n denna regel. Deras h\u00e5rda, biomineraliserade exoskelett bevaras l\u00e4tt och \u00e4r d\u00e4rf\u00f6r ofta diversifierade och talrika, med \u00f6ver 22 000 beskrivna arter funna i sediment\u00e4ra avlagringar fr\u00e5n denna tid. Uppkomsten av trilobiter under tidiga kambrium, samt gruppens snabba utveckling, representerar kanske det b\u00e4sta exemplet p\u00e5 en hur en m\u00e4ngd nya former tillkommer i en grupp, i olika livsmilj\u00f6er. Trilobiternas goda bevaringspotential har resulterat i omfattande samlingar i museer \u00f6ver hela v\u00e4rlden. Detta projekt kommer att anv\u00e4nda dessa samlingar f\u00f6r att avsl\u00f6ja p\u00e5 vilket s\u00e4tt den snabba kambriska utvecklingen hos trilobiterna skedde, och j\u00e4mf\u00f6ra den med liknande moderna diversifieringar (t.ex. hur ciklidfiskar anpassats till livet i de afrikanska gravs\u00e4nkesystemen). F\u00f6r att g\u00f6ra detta kommer jag att anv\u00e4nda nya statistiska metoder f\u00f6r att testa kopplingarna mellan trilobiters morfologi (t.ex. viktiga morfologiska strukturer som \u00f6gon) och de milj\u00f6er och geografiska platser d\u00e4r de hittas. Dessa m\u00f6nster kommer sedan att j\u00e4mf\u00f6ras med moderna exempel p\u00e5 evolution\u00e4ra radieringar, vilket avsl\u00f6jar om liknande processer \u00e4gde rum omedelbart efter djurens f\u00f6rsta b\u00f6rjan.",
+        "projectAbstractEn": "The Cambrian \u2018explosion\u2019 is the most important evolutionary radiation in the history of life on Earth. At this time, almost all major animal body plans (phyla) appear in the fossil record, and the first complex ecosystems emerge. Trilobites (marine euarthropods similar to modern crustaceans) are an iconic early group that appear abruptly during this event, c. 521 million years ago. Quantifying the development of morphological diversity (\u2018disparity\u2019) through time in fossil groups like trilobites is therefore critical in understanding radiations like the Cambrian \u2018explosion\u2019. The major aim of this project is to reveal the drivers behind the Cambrian trilobite radiation, by exploring relationships between disparity and potential causative factors related to ecology and palaeobiogeography. Leveraging vast museum collections for source data, detailed morphology will be quantified in hundreds of Cambrian trilobite species using landmark-based geometric morphometrics, and disparity-through-time calculated using a novel, high-resolution method based on genus ranges. Relationships between important functional structures (e.g. eyes) and palaeoenvironment will be tested, and patterns compared with recent (e.g. adaptive, geographic) radiations. Results will show if processes observed in recent diversification events were operating soon after the dawn of animal life, and provide critical evidence as to whether radiations such as the Cambrian \u2018explosion\u2019 can be explained by such phenomena.",
+        "projectStartDate": "2024-01-01 00:00:00",
+        "projectEndDate": "2027-12-31 00:00:00",
+        "coordinatingOrganisationId": "202100-2932",
+        "coordinatingOrganisationNameSv": "Uppsala universitet",
+        "coordinatingOrganisationNameEn": "Uppsala University",
+        "coordinatingOrganisationTypeOfOrganisationSv": "Universitet",
+        "coordinatingOrganisationTypeOfOrganisationEn": "University",
+        "fundingOrganisationId": "202100-5208",
+        "fundingOrganisationNameSv": "Vetenskapsr\u00e5det",
+        "fundingOrganisationNameEn": "Swedish Research Council",
+        "fundingOrganisationTypeOfOrganisationSv": "Stat, regioner, kommuner, f\u00f6rsamlingar",
+        "fundingOrganisationTypeOfOrganisationEn": "Governmental",
+        "fundingsSek": 4000000,
+        "fundingYear": "2024",
+        "fundingStartDate": "2024-01-01",
+        "fundingEndDate": "2027-12-31",
+        "typeOfAwardId": 2,
+        "typeOfAwardDescrSv": "Bidrag f\u00f6r anst\u00e4llning eller stipendier",
+        "typeOfAwardDescrEn": "Grant for positions or stipends",
+        "updatedDate": null,
+        "loadedDate": "Nov 10 2023  8:19AM",
+        "peopleList": [
+            {
+                "personId": "78077",
+                "fullName": "James Holmes",
+                "orcId": "0000-0001-8804-2149",
+                "roleEn": "Principal Investigator",
+                "roleSv": "Projektledare",
+                "gender": "Male"
+            }
+        ],
+        "scbs": [
+            {
+                "scb5Id": "10503",
+                "scb5NameSv": "Multidisciplin\u00e4r geovetenskap",
+                "scb5NameEn": "Geosciences, Multidisciplinary",
+                "scb3Id": "105",
+                "scb3NameSv": "Geovetenskap och milj\u00f6vetenskap",
+                "scb3NameEn": "Earth and Related Environmental Sciences",
+                "scb1Id": "1",
+                "scb1NameSv": "Naturvetenskap",
+                "scb1NameEn": "Natural Sciences"
+            },
+            {
+                "scb5Id": "10504",
+                "scb5NameSv": "Geologi",
+                "scb5NameEn": "Geology",
+                "scb3Id": "105",
+                "scb3NameSv": "Geovetenskap och milj\u00f6vetenskap",
+                "scb3NameEn": "Earth and Related Environmental Sciences",
+                "scb1Id": "1",
+                "scb1NameSv": "Naturvetenskap",
+                "scb1NameEn": "Natural Sciences"
+            }
+        ],
+        "score": 0.05785179258462228
+    },
+    {
+        "projectId": "2020-03423_VR",
+        "projectTitleSv": "Dinosauriernas tids\u00e5lder i skandinaviska Arktis: en resurs f\u00f6r forskning och bevarande av det geologiska arvet",
+        "projectTitleEn": "Scandinavia\u2019s Arctic Age of Dinosaurs as a research and geoheritage resource",
+        "projectAbstractSv": "Projektet syftar till att genom bel\u00e4gg fr\u00e5n skandinaviska Arktis\u00b4 spektakul\u00e4ra fossilbest\u00e5nd unders\u00f6ka vilka effekter g\u00e5ngna tiders milj\u00f6f\u00f6r\u00e4ndringar haft p\u00e5 livets utvecklingshistoria.Det fossila best\u00e5ndet i skandinaviska Arktis \u00e4r v\u00e4rldsber\u00f6mt f\u00f6r sina l\u00e4mningar av h\u00f6gnordliga ekosystem fr\u00e5n det allra tidigaste skedet av dinosauriernas tids\u00e5lder, f\u00f6r 251,9 miljoner \u00e5r sedan. Denna avg\u00f6rande epok k\u00e4nnetecknades av katastrofala massutd\u00f6enden och en extrem klimatuppv\u00e4rmning som sammanf\u00f6ll med st\u00f6rre evolution\u00e4ra tilldragelser, s\u00e5som de landlevande reptilernas och amfibiernas tidigaste anpassning till ett liv i \u00f6ppna havet.Den hittillsvarande forskningen antyder att de forntida polarregionerna kan ha varit s\u00e4rskilt viktiga i egenskap av skyddade kalltempererade livsmilj\u00f6er som verkade direkt p\u00e5drivande f\u00f6r dessa havslevande ryggradsdjurs ursprung och tidiga utveckling. Fossila fynd fr\u00e5n Arktis och dess breddgradsm\u00e4ssiga motsvarighet p\u00e5 s\u00f6dra halvklotet \u2013 det som idag utg\u00f6rs av Australasien \u2013 \u00e4r dock i b\u00e5da fallen otillr\u00e4ckligt dokumenterade. Dessutom har skilda analytiska f\u00f6rh\u00e5llningss\u00e4tt resulterat i motstridande evolution\u00e4ra scenarier, vilket i sin tur\u00a0 komplicerat f\u00f6rst\u00e5elsen f\u00f6r utvecklingen av senare, moderna marina ekosystem. Dessa brister kommer nu att kunna avhj\u00e4lpas genom studier av skandinaviska fossila museisamlingar i v\u00e4rldsklass kombinerat med fullt ut finansierade, samarbetsbaserade arktiska expeditionsprogram, infrastruktur f\u00f6r spjutspetsforskning samt banbrytande till\u00e4mpningar p\u00e5 geoarvsomr\u00e5det. Sammantaget kommer detta ha betydande f\u00f6rdelar f\u00f6r b\u00e5de naturvetenskapen och samh\u00e4llet.Projektet, som s\u00e5lunda kombinerar ledande skandinavisk expertis med spjutspetsteknologi och ett unikt fossilt analysmaterial, inriktar sig p\u00e5 tre huvudsakliga m\u00e5l och resultat:M\u00c5L 1. Att sammanst\u00e4lla en p\u00e5 helhetsevidens baserad sedimentologisk, biostratigrafisk och kemostratigrafisk \u00f6versikt \u00f6ver inledningsskedet av dinosauriernas tids\u00e5lder f\u00f6r hela skandinaviska Arktis.H\u00e4r kombineras ny information insamlad fr\u00e5n museer v\u00e4rlden \u00f6ver med f\u00e4ltforskning p\u00e5 \u00d6stgr\u00f6nland och Svalbard i syfte att uppr\u00e4tta en h\u00f6guppl\u00f6st tidsskala \u00f6ver de f\u00f6r\u00e4ndringar i biologisk m\u00e5ngfald som \u00e4gt rum under en kontinuerlig klimatskiftesperiod p\u00e5 10 miljoner \u00e5r. Tillsammans tillhandah\u00e5ller dessa data en reviderad kontextualisering av l\u00e5ngsiktiga evolution\u00e4ra m\u00f6nster och en ny global geologisk referensstandard.M\u00c5L 2. Att fastst\u00e4lla m\u00e5ngfald och spridningstendenser f\u00f6r de tidiga marina reptilernas och amfibiernas ekosystem, samt att precisera tidpunkten f\u00f6r och p\u00e5visa drivkrafterna bakom deras framtr\u00e4dande som marina rovdjur h\u00f6gst upp i n\u00e4ringskedjan.H\u00e4r integreras avancerade fylogenetiska metoder med synkotronbaserade mikrotomografiska rekonstruktioner av skelettbenens mikrostruktur och isotopisk geokemi f\u00f6r att med st\u00f6rsta noggrannhet kunna klarl\u00e4gga djurens radieringshistoria och levnadss\u00e4tt. S\u00e5dan information kan sedan anv\u00e4ndas inte bara f\u00f6r att belysa aspekter p\u00e5 global evolution och ekologi, utan ocks\u00e5 f\u00f6r att direkt korrelera utslagsgivande evolution\u00e4ra anpassningar med den biologiska artoms\u00e4ttningen.M\u00c5L 3. Att samordna forskningen med geoarvsinriktade initiativ i museiregi f\u00f6r att fr\u00e4mja en h\u00e5llbar utveckling av det skandinaviska Arktis\u00b4 fossila resurser.H\u00e4r till\u00e4mpas museipedagogiska produkter och aktiviteter som vandringsutst\u00e4llningar, virtuella online-museer och geoturism f\u00f6r att underst\u00f6dja bevarandet av fossil samt generera ekonomisk avkastning till avl\u00e4gset bel\u00e4gna arktiska samh\u00e4llen. Dessa initiativ kommer att bidra till att \u00f6ka allm\u00e4nhetens medvetenhet om naturhistoriens betydelse och delge samh\u00e4llet kunskap om effekterna av l\u00e5ngsiktiga f\u00f6r\u00e4ndringar p\u00e5 milj\u00f6n och den biologiska m\u00e5ngfalden.",
+        "projectAbstractEn": "This project partners two of Scandinavia\u2019s leading natural history museums to investigate ancient polar ecosystems and pioneer fossil geoheritage in the Arctic.  The beginning of the Age of Dinosaurs was marked by cataclysmic extinction and extreme global warming that spurred major evolutionary advances.\u00a0These included the first adaptation of reptiles and amphibians to life in the oceans. However, the precise dynamics of this transition remain unclear, and especially the role of the polar regions as a possible climate refuge and major diversification centre. We will test these hypotheses using spectacular fossils from the Scandinavian Arctic, and a rigorous multidisciplinary approach integrating research with museum-based geoheritage applications.  AIM 1. Compile a total-evidence stratigraphical chronicle of environmental change across the Scandinavian Arctic. This will employ iconic museum collections and new field data recovered from East Greenland and Svalbard.  AIM 2. Determine the diversity and distribution of early marine tetrapod ecosystems, and pinpoint the emergence of oceanic apex-predators. This will combine phylogenetics, bone microstructure and isotopic geochemistry to infer radiation histories and lifestyle.  AIM 3. Coordinate research with geoheritage initiatives to promote sustainable management of polar fossil resources. This will utilise travelling\u00a0exhibits, virtual museums and geotourism to support fossil conservation and benefit remote Arctic communities.",
+        "projectStartDate": "2021-01-01 00:00:00",
+        "projectEndDate": "2024-12-31 00:00:00",
+        "coordinatingOrganisationId": "202100-2932",
+        "coordinatingOrganisationNameSv": "Uppsala universitet",
+        "coordinatingOrganisationNameEn": "Uppsala University",
+        "coordinatingOrganisationTypeOfOrganisationSv": "Universitet",
+        "coordinatingOrganisationTypeOfOrganisationEn": "University",
+        "fundingOrganisationId": "202100-5208",
+        "fundingOrganisationNameSv": "Vetenskapsr\u00e5det",
+        "fundingOrganisationNameEn": "Swedish Research Council",
+        "fundingOrganisationTypeOfOrganisationSv": "Stat, regioner, kommuner, f\u00f6rsamlingar",
+        "fundingOrganisationTypeOfOrganisationEn": "Governmental",
+        "fundingsSek": 3480000,
+        "fundingYear": "2021",
+        "fundingStartDate": "2021-01-01",
+        "fundingEndDate": "2024-12-31",
+        "typeOfAwardId": 1,
+        "typeOfAwardDescrSv": "Projektbidrag",
+        "typeOfAwardDescrEn": "Project grant",
+        "updatedDate": null,
+        "loadedDate": "Sep  8 2023  5:12AM",
+        "peopleList": [
+            {
+                "personId": "55433",
+                "fullName": "Aubrey Roberts",
+                "orcId": "0000-0003-2714-666X",
+                "roleEn": "Co-Investigator",
+                "roleSv": "Projektdeltagare",
+                "gender": "Female"
+            },
+            {
+                "personId": "71644",
+                "fullName": "J\u00f8rn Hurum",
+                "orcId": "",
+                "roleEn": "Co-Investigator",
+                "roleSv": "Projektdeltagare",
+                "gender": "Male"
+            },
+            {
+                "personId": "68064",
+                "fullName": "Benjamin Kear",
+                "orcId": "0000-0002-3128-3141",
+                "roleEn": "Principal Investigator",
+                "roleSv": "Projektledare",
+                "gender": "Male"
+            }
+        ],
+        "scbs": [
+            {
+                "scb5Id": "10504",
+                "scb5NameSv": "Geologi",
+                "scb5NameEn": "Geology",
+                "scb3Id": "105",
+                "scb3NameSv": "Geovetenskap och milj\u00f6vetenskap",
+                "scb3NameEn": "Earth and Related Environmental Sciences",
+                "scb1Id": "1",
+                "scb1NameSv": "Naturvetenskap",
+                "scb1NameEn": "Natural Sciences"
+            },
+            {
+                "scb5Id": "10599",
+                "scb5NameSv": "Annan geovetenskap och milj\u00f6vetenskap",
+                "scb5NameEn": "Other Earth and Related Environmental Sciences",
+                "scb3Id": "105",
+                "scb3NameSv": "Geovetenskap och milj\u00f6vetenskap",
+                "scb3NameEn": "Earth and Related Environmental Sciences",
+                "scb1Id": "1",
+                "scb1NameSv": "Naturvetenskap",
+                "scb1NameEn": "Natural Sciences"
+            },
+            {
+                "scb5Id": "10608",
+                "scb5NameSv": "Zoologi",
+                "scb5NameEn": "Zoology",
+                "scb3Id": "106",
+                "scb3NameSv": "Biologi (Medicinska till\u00e4mpningar under 3 och lantbruksvetenskapliga under 4)",
+                "scb3NameEn": "Biological Sciences\u00a0\u00a0(Medical to be 3 and Agricultural to be 4)",
+                "scb1Id": "1",
+                "scb1NameSv": "Naturvetenskap",
+                "scb1NameEn": "Natural Sciences"
+            }
+        ],
+        "score": 0.05742951672634038
+    },
+    {
+        "projectId": "2018-00775_Formas",
+        "projectTitleSv": "F\u00f6dov\u00e4vsinteraktioner mellan bottenlevande fiskarter: en kunskapsbrist i ekosystembaserad fiskerif\u00f6rvaltning",
+        "projectTitleEn": "Fish interactions in the marine benthic habitat: a knowledge gap in Baltic Sea fish ecology and multispecies fisheries management",
+        "projectAbstractSv": "\u00d6stersj\u00f6n \u00e4r ett k\u00e4nsligt havsomr\u00e5de som p\u00e5verkas naturligt av att vara en \u00f6verg\u00e5ngszon mellan s\u00f6tt och salt vatten, ett s.k. estuarium. I detta innanhav \u00e4r antal arter relativt f\u00e5 och best\u00e5r av en blandning av s\u00f6tvattensarter och marina arter som t\u00e5l den speciella milj\u00f6n. \u00d6stersj\u00f6ns \u00e4r d\u00e4rf\u00f6r ocks\u00e5 ett k\u00e4nsligt ekosystem d\u00e5 kopplingarna mellan arter \u00e4r f\u00e5 och viktiga. Detta inneb\u00e4r att om en art minskar eller \u00f6kar kan det f\u00e5 konsekvenser f\u00f6r hela ekosystemets funktion. \u00d6stersj\u00f6n har p\u00e5 olika s\u00e4tt drabbats h\u00e5rt av f\u00f6r\u00e4ndringar i milj\u00f6n till f\u00f6ljd av milj\u00f6gifter, utfiskning och \u00f6verg\u00f6dning. Torsken har drabbats h\u00e5rt av milj\u00f6problemen och har sv\u00e5rt att \u00e5terh\u00e4mta sig trots \u00e5tg\u00e4rder som minskat fisketryck. Best\u00e5ndet i \u00f6stra \u00d6stersj\u00f6n best\u00e5r idag till stor del av magra, 0-3 \u00e5r gamla torskar med l\u00e5ngsam tillv\u00e4xt och stora, \u00e4ldre torskar saknas n\u00e4stan helt. Torsken har en nyckelroll i \u00d6stersj\u00f6n som rovfisk (toppredator) och strukturerar f\u00f6dov\u00e4ven genom att konsumera mindre arter som sill och skarpsill som \u00e4ter djurplankton vilka i sin tur betar v\u00e4xtplankton. P\u00e5 s\u00e5 s\u00e4tt p\u00e5verkar ocks\u00e5 ett stort torskbest\u00e5nd symptomen p\u00e5 \u00f6verg\u00f6dningen med v\u00e4xtplanktonblomningar d\u00e5 kaskaden i n\u00e4ringsv\u00e4ven med att torsken kontrollerar skarpsill och sill medf\u00f6r att djurplankton kan beta ner v\u00e4xtplanktonblomningar effektivare. Att f\u00e5 tillbaks ett st\u00f6rre torskbest\u00e5nd med bredare \u00e5lders-och storleksf\u00f6rdelning \u00e4r d\u00e4rf\u00f6r en nyckel\u00e5tg\u00e4rd f\u00f6r att bek\u00e4mpa \u00d6stersj\u00f6ns milj\u00f6problem.F\u00f6r \u00d6stersj\u00f6n finns en stor kunskapsbrist om hur tv\u00e5 av de vanligaste och f\u00f6r yrkesfisket viktiga bottenlevande fiskarterna torsk och skrubbsk\u00e4dda p\u00e5verkar varandra i n\u00e4ringsv\u00e4ven. V\u00e5ra prelimin\u00e4ra analyser visar att b\u00e5da dessa fiskar \u00e4ter samma arter av bottendjur vilket kan inneb\u00e4ra att de konkurrerar om f\u00f6doresursen. Denna konkurrenssituation kan ha blivit mer omfattande under de senaste \u00e5ren p.g.a \u00f6kad utbredning av bottnar med syrebrist. Skrubbsk\u00e4ddorna i \u00d6stersj\u00f6n har ocks\u00e5 \u00f6kat i antal vilket, om de konkurrerar om f\u00f6dan med torsken, kan vara en av orsakerna till att torskbest\u00e5ndet \u00e4r fortsatt p\u00e5 en l\u00e5g niv\u00e5 med magra individer och l\u00e5ngsam tillv\u00e4xt. Situationen \u00e4r allts\u00e5 att mindre ytor med bottendjur finns tillg\u00e4ngliga f\u00f6r fiskarterna att s\u00f6ka f\u00f6da p\u00e5, och att skrubbsk\u00e4ddan dessutom har \u00f6kat i antal vilket kan ha medf\u00f6rt en intensifierad konkurrenssituation.M\u00e5let med detta forskningsprojekt \u00e4r att unders\u00f6ka f\u00f6rh\u00e5llandet och konkurrensen mellan torsk och skrubbsk\u00e4dda. V\u00e5rt forskningsprojekt har en tydlig till\u00e4mpning f\u00f6r milj\u00f6arbetet i \u00d6stersj\u00f6n, och finner vi st\u00f6d f\u00f6r v\u00e5ra hypoteser skulle det kunna inneb\u00e4ra konsekvenser f\u00f6r f\u00f6rvaltningen av fiskbest\u00e5nden s\u00e5 att h\u00e4nsyn tas torskens situation n\u00e4r t.ex. beslut tas om storleken av f\u00e5ngstuttagen f\u00f6r yrkesfisket. Vi kommer att unders\u00f6ka vilka och hur mycket bottendjur torsk och skrubba \u00e4ter i \u00d6stersj\u00f6n med hj\u00e4lp av nyinsamlade fiskmagar i vilka dietsammans\u00e4ttningen har analyserats. Vi kommer ocks\u00e5 att kartera var f\u00f6doresurserna i form av bottendjur f\u00f6r torsk och skrubbsk\u00e4dda finns i \u00d6stersj\u00f6n och koppla detta till utbredning, m\u00f6jliga konkurrensf\u00f6rh\u00e5llanden och konditionen p\u00e5 fiskarterna. N\u00e4r vi kommit s\u00e5 l\u00e5ngt kommer vi att anv\u00e4nda resultaten f\u00f6r att med en modell f\u00f6r \u00d6stersj\u00f6ns ekosystem och f\u00f6dov\u00e4varna beskriva och simulera hur olika komponenter i modellen som fiskarter och bottendjur p\u00e5verkas av f\u00f6r\u00e4ndringar i klimat och fisketryck. M\u00e5let \u00e4r att i slut\u00e4ndan b\u00e4ttre f\u00f6rst\u00e5 hur f\u00f6dov\u00e4ven och ekosystemet fungerar och p\u00e5verkas av \u00e5tg\u00e4rder i hur yrkesfisket bedrivs och hur klimatet f\u00f6r\u00e4ndras, och d\u00e4rmed ta fram f\u00f6rb\u00e4ttrade underlag f\u00f6r en f\u00f6rvaltning som kan leda till ett friskare \u00d6stersj\u00f6n.",
+        "projectAbstractEn": "Ecosystem-based fisheries management (EBFM) is a pillar of responsible fisheries and environmental EU legislations. EBFM aims to a sustainable management of marine resources which recognizes and account for the critical ecological interactions among key species and ecosystem components. In the Baltic Sea, a major knowledge gap exists about the ecological interactions between two commercially important species dwelling in the benthic habitat, the cod and the flounder. Preliminary analyses have revealed that these two species feed on similar prey suggesting potential strong competition for benthic food. This competition could have intensified during the past years, when benthic prey became scarcer due to the deoxygenation of the deep waters. The recent increase in the Baltic flounder stocks\u2019 abundance could be therefore one of the causes of the enduring low cod body condition and abundance. If confirmed this would imply an important trade-off between cod and flounder with direct implications for fisheries management. The proposed project is intended to resolve the interplay between these two commercially exploited species and aid therefore management decisions. The project will 1) characterise and quantify the trophic interactions between cod and flounder in the Baltic Sea using newly collected diet data and 2) apply the results into a novel ecosystem model to investigate the trade-offs between the two species under different scenarios of climate change and fishing pressure.",
+        "projectStartDate": "2019-01-01 00:00:00",
+        "projectEndDate": "2021-12-31 00:00:00",
+        "coordinatingOrganisationId": "202100-2817",
+        "coordinatingOrganisationNameSv": "Sveriges lantbruksuniversitet",
+        "coordinatingOrganisationNameEn": "Swedish University of Agricultural Sciences",
+        "coordinatingOrganisationTypeOfOrganisationSv": "Universitet",
+        "coordinatingOrganisationTypeOfOrganisationEn": "University",
+        "fundingOrganisationId": "202100-5232",
+        "fundingOrganisationNameSv": "Formas",
+        "fundingOrganisationNameEn": "Formas",
+        "fundingOrganisationTypeOfOrganisationSv": "Stat, regioner, kommuner, f\u00f6rsamlingar",
+        "fundingOrganisationTypeOfOrganisationEn": "Governmental",
+        "fundingsSek": 2998065,
+        "fundingYear": "2019",
+        "fundingStartDate": "2019-01-01",
+        "fundingEndDate": "2021-12-31",
+        "typeOfAwardId": 1,
+        "typeOfAwardDescrSv": "Projektbidrag",
+        "typeOfAwardDescrEn": "Project grant",
+        "updatedDate": null,
+        "loadedDate": "Sep  8 2023  5:13AM",
+        "peopleList": [
+            {
+                "personId": "60447",
+                "fullName": "Michele Casini",
+                "orcId": "0000-0003-4910-5236",
+                "roleEn": "Principal Investigator",
+                "roleSv": "Projektledare",
+                "gender": "Male"
+            },
+            {
+                "personId": "72974",
+                "fullName": "Valerio Bartolino",
+                "orcId": "0000-0002-4506-4329",
+                "roleEn": "Co-Investigator",
+                "roleSv": "Projektdeltagare",
+                "gender": "Male"
+            },
+            {
+                "personId": "50770",
+                "fullName": "Anna Ekl\u00f6f",
+                "orcId": "0000-0003-2721-0051",
+                "roleEn": "Co-Investigator",
+                "roleSv": "Projektdeltagare",
+                "gender": "Female"
+            },
+            {
+                "personId": "70030",
+                "fullName": "Mattias Sk\u00f6ld",
+                "orcId": "",
+                "roleEn": "Co-Investigator",
+                "roleSv": "Projektdeltagare",
+                "gender": "Male"
+            }
+        ],
+        "scbs": [
+            {
+                "scb5Id": "10509",
+                "scb5NameSv": "Oceanografi, hydrologi och vattenresurser",
+                "scb5NameEn": "Oceanography, Hydrology and Water Resources",
+                "scb3Id": "105",
+                "scb3NameSv": "Geovetenskap och milj\u00f6vetenskap",
+                "scb3NameEn": "Earth and Related Environmental Sciences",
+                "scb1Id": "1",
+                "scb1NameSv": "Naturvetenskap",
+                "scb1NameEn": "Natural Sciences"
+            },
+            {
+                "scb5Id": "10611",
+                "scb5NameSv": "Ekologi",
+                "scb5NameEn": "Ecology",
+                "scb3Id": "106",
+                "scb3NameSv": "Biologi (Medicinska till\u00e4mpningar under 3 och lantbruksvetenskapliga under 4)",
+                "scb3NameEn": "Biological Sciences\u00a0\u00a0(Medical to be 3 and Agricultural to be 4)",
+                "scb1Id": "1",
+                "scb1NameSv": "Naturvetenskap",
+                "scb1NameEn": "Natural Sciences"
+            },
+            {
+                "scb5Id": "40107",
+                "scb5NameSv": "Fisk- och akvakulturforskning",
+                "scb5NameEn": "Fish and Aquacultural Science",
+                "scb3Id": "401",
+                "scb3NameSv": "Jordbruksvetenskap",
+                "scb3NameEn": "Agriculture, Forestry and Fisheries",
+                "scb1Id": "4",
+                "scb1NameSv": "Lantbruksvetenskap och veterin\u00e4rmedicin",
+                "scb1NameEn": "Agricultural and Veterinary Sciences"
+            }
+        ],
+        "score": 0.05580031057807539
+    },
+    {
+        "projectId": "2021-00153_VR",
+        "projectTitleSv": "Isbrytaren Oden",
+        "projectTitleEn": "The Icebreaker Oden",
+        "projectAbstractSv": "I polaromr\u00e5dena har den globala uppv\u00e4rmningen varit starkare och skett snabbare \u00e4n p\u00e5 l\u00e4gre breddgrader. Stigande temperaturer har lett till en dramatisk minskning av havsisutbredningen under sommarm\u00e5naderna i Arktis. Den minskade utbredningen har p\u00e5verkat den marina milj\u00f6n, bl.a. genom \u00f6kad kusterosion och f\u00f6rsurning av havet. I stora omr\u00e5den har tinande permafrost dokumenterats och Gr\u00f6nlands inlandsis f\u00f6rlorar massa i en accelererande takt. F\u00f6r\u00e4ndringar i klimat och isf\u00f6rh\u00e5llande i Arktis har redan en p\u00e5taglig lokal inverkan p\u00e5 djur- och v\u00e4xt-liv samt p\u00e5 samh\u00e4lleliga aktiviteter. Transporter av v\u00e4rme och sp\u00e5r\u00e4mnen med vindar och havsstr\u00f6mmar medf\u00f6r att f\u00f6r\u00e4ndringar som \u00e4ven p\u00e5verkar klimat och livsbetingelser globalt: sm\u00e4ltande inlandsisarisar och glaci\u00e4rer h\u00f6jer niv\u00e5n i V\u00e4rldshavet och n\u00e4r isens reflekterande f\u00f6rm\u00e5ga minskar \u00f6kar m\u00e4ngden solenergi som jorden absorberar. Samtidigt \u00e4r polaromr\u00e5dena fortfarande de minst utforskade regionerna p\u00e5 jorden, och h\u00e4r finns fortfarande kunskapsluckor inom grundl\u00e4ggande forskning. Detta g\u00e4ller i synnerhet de ist\u00e4ckta polarhaven, d\u00e4r det \u00e4r sv\u00e5rt att g\u00f6ra direkta observationer. Isbrytaren Oden utg\u00f6r idag en forskningsplattform i absolut v\u00e4rldsklass, och \u00e4r ett av ytters f\u00e5 forskningsfartyg som kan operera i de Arktiska och Antarktiska havens sv\u00e5ra isf\u00f6rh\u00e5llanden. Odens unika forskningskapacitet \u00e4r resultatet av en uth\u00e5llig och fram\u00e5tblickande str\u00e4van att utveckla och f\u00f6rb\u00e4ttra fartygets forskningsinfrastruktur. Idag erbjuder Odens forskningsinfrastruktur m\u00f6jligheter f\u00f6r m\u00e5ngfacetterade studier av atmosf\u00e4ren, havet, kryosf\u00e4ren, marina ekosystem samt havsbottnarnas sediment och geologi. I forskningsinfrastrukturen ing\u00e5r meteorologiska och oceanografiska instrument, avancerade ekolodssystem f\u00f6r kartering av havsbotten och vattenmassan, vinschar f\u00f6r vatten- och sedimentprovtagning, samt laboratoriefaciliteter. Tillg\u00e5ngen till Oden har lett till att Sverige kunnat inta positionen som en av de ledande nationerna avseende forskning i de packisist\u00e4ckta delarna av Arktiska oceanen. Syftet med denna ans\u00f6kan \u00e4r att vidmakth\u00e5lla Oden som en v\u00e4rldsledande forskningsisbrytare genom att modernisera och vidareutveckla dess forskningsinfrastruktur. En viktig del \u00e4r att automatisera mycket av datainsamlingen och g\u00f6ra denna information tillg\u00e4nglig f\u00f6r det breda forskarsamh\u00e4llet. Ans\u00f6kan \u00e4r strukturerad kring moduler som representerar specifika observationsplattformar d\u00e4r modernisering och vidareutveckling har identifierats som s\u00e4rskilt angel\u00e4gen: ekolodssystem f\u00f6r kartering av havsbotten, underliggande sediment och vattenmassan inklusive m\u00e4tning av havsstr\u00f6mmar; atmosf\u00e4rsobservationer och meteorologi; vattenprovtagning och analys; karakterisering av mineral och magnetiska egenskaper. De f\u00f6reslagna investeringarna kommer att ge m\u00f6jlighet till ny kunskap genom \u00e5rliga Odenexpeditioner, som utlyses och koordineras av Polarforskningssekretariatet. Inom Sverige kommer forskare med ett brett spektrum av forskningsdiscipliner fr\u00e5n universitet och forskningsinstitut att kunna dra nytta av Odens forskningsinfrastruktur under dessa polarexpeditioner. Odens unika forskningsinfrastruktur \u00f6ppnar \u00e4ven f\u00f6r svenska forskare att bygga starka samarbeten med ledande internationella forskare kring projekt kopplade till Odenexpeditioner. Eftersom Oden i nul\u00e4get \u00e4r upptagen med isbrytning i \u00d6stersj\u00f6n under vinterhalv\u00e5ret har de vetenskapliga motiveringarna i denna ans\u00f6ka inriktats mot fr\u00e5gest\u00e4llningar som kan beforskas med expeditioner till Arktis under sommarhalv\u00e5ret. Det saknas exempelvis fortfarande viktig kunskap om Arktis klimat, ekologi och geologi. Genom att flytta fram positionerna inom forskningen \u00f6kar m\u00f6jligheterna att f\u00f6rutse exempelvis hur snabbt Arktis sommarhavsis kommer att krympa, och hur detta kommer att p\u00e5verka lokala ekosystem och deras upptag av koldioxid samt \u00e5terverka p\u00e5 klimatet globalt. Detta \u00e4r kunskap som beh\u00f6vs f\u00f6r vetenskapligt baserade politiska beslut och inriktningar f\u00f6r att skydda Arktis och n\u00e5 k",
+        "projectAbstractEn": "The global warming is particularly rapid and pronounced in the Arctic, causing loss of land- and sea-ice, thawing permafrost, coastal erosion, and release of greenhouse gases that have far-reaching environmental and ecological consequences. However, critical observations from the polar regions are still lacking, particularly in and over the polar ocean. Icebreaker Oden is a research platform that provides access to the sea-ice covered parts of the polar oceans, which are accessible to only a few research icebreakers in the world. Oden has made it possible to positioning Swedish polar science at the international forefront. This proposal serves to maintain Oden at the international top of polar-class research vessels by upgrading, complementing and further developing its research infrastructure. The\u00a0proposal is structured around aligned but independent modules representing observational platforms: acoustic mapping; atmospheric observations; water sampling and analysis; and petrography and enviromagnetics. The scientific aims of the infrastructure investments are twofold: First, to enable collection of high-quality data necessary for understanding the polar environment, and its past evolution and future changes. Second, to consolidate Icebreaker Oden as a platform for international multi-disciplinary expeditions, designed to fill critical knowledge gaps of the Arctic Ocean\u00b4s unique climate and ecological systems. Nationally, a broad range of scientists in ecology and biology, and Earth science disciplines such as oceanography, marine geology, and meteorology across many universities and research institutes will use and benefit from the proposed infrastructure. Added value includes scientific advancement through national and international collaboration in future multi-disciplinary expeditions on icebreaker Oden. The proposal includes an additional specific module that will ensure swift open-access publication of the acquired data.\u00a0",
+        "projectStartDate": "2022-01-01 00:00:00",
+        "projectEndDate": "2026-12-31 00:00:00",
+        "coordinatingOrganisationId": "202100-3062",
+        "coordinatingOrganisationNameSv": "Stockholms universitet",
+        "coordinatingOrganisationNameEn": "Stockholm University",
+        "coordinatingOrganisationTypeOfOrganisationSv": "Universitet",
+        "coordinatingOrganisationTypeOfOrganisationEn": "University",
+        "fundingOrganisationId": "202100-5208",
+        "fundingOrganisationNameSv": "Vetenskapsr\u00e5det",
+        "fundingOrganisationNameEn": "Swedish Research Council",
+        "fundingOrganisationTypeOfOrganisationSv": "Stat, regioner, kommuner, f\u00f6rsamlingar",
+        "fundingOrganisationTypeOfOrganisationEn": "Governmental",
+        "fundingsSek": 7093000,
+        "fundingYear": "2022",
+        "fundingStartDate": "2022-01-01",
+        "fundingEndDate": "2026-12-31",
+        "typeOfAwardId": 5,
+        "typeOfAwardDescrSv": "Forskningsinfrastruktur",
+        "typeOfAwardDescrEn": "Research infrastructure",
+        "updatedDate": null,
+        "loadedDate": "Sep  8 2023  5:12AM",
+        "peopleList": [
+            {
+                "personId": "50689",
+                "fullName": "Martin Jakobsson",
+                "orcId": "0000-0002-9033-3559",
+                "roleEn": "Principal Investigator",
+                "roleSv": "Projektledare",
+                "gender": "Male"
+            }
+        ],
+        "scbs": [
+            {
+                "scb5Id": "10501",
+                "scb5NameSv": "Klimatforskning",
+                "scb5NameEn": "Climate Research",
+                "scb3Id": "105",
+                "scb3NameSv": "Geovetenskap och milj\u00f6vetenskap",
+                "scb3NameEn": "Earth and Related Environmental Sciences",
+                "scb1Id": "1",
+                "scb1NameSv": "Naturvetenskap",
+                "scb1NameEn": "Natural Sciences"
+            },
+            {
+                "scb5Id": "10503",
+                "scb5NameSv": "Multidisciplin\u00e4r geovetenskap",
+                "scb5NameEn": "Geosciences, Multidisciplinary",
+                "scb3Id": "105",
+                "scb3NameSv": "Geovetenskap och milj\u00f6vetenskap",
+                "scb3NameEn": "Earth and Related Environmental Sciences",
+                "scb1Id": "1",
+                "scb1NameSv": "Naturvetenskap",
+                "scb1NameEn": "Natural Sciences"
+            },
+            {
+                "scb5Id": "10799",
+                "scb5NameSv": "\u00d6vrig annan naturvetenskap",
+                "scb5NameEn": "Other Natural Sciences not elsewhere specified",
+                "scb3Id": "107",
+                "scb3NameSv": "Annan naturvetenskap",
+                "scb3NameEn": "Other Natural Sciences ",
+                "scb1Id": "1",
+                "scb1NameSv": "Naturvetenskap",
+                "scb1NameEn": "Natural Sciences"
+            }
+        ],
+        "score": 0.05302091315654582
+    },
+    {
+        "projectId": "2022-02826_Vinnova",
+        "projectTitleSv": "AI f\u00f6r h\u00e5llbar f\u00f6rvaltning av marina ekosystem",
+        "projectTitleEn": "AI for Sustainable Management of Marine Ecosystems",
+        "projectAbstractSv": "Syfte och m\u00e5l:\r\nPersonalutbytet kommer att etablera kontakter mellan SLU och Mila (Montreal/Quebec), en v\u00e4rldsledande forskningsorganisation inom AI. Kontaktpersonen p\u00e5 Mila leder en grupp med fokus p\u00e5 AI om klimatf\u00f6r\u00e4ndringar, som omfattar samh\u00e4lleliga l\u00f6sningar f\u00f6r att mildra och anpassa sig till klimatf\u00f6r\u00e4ndringar med hj\u00e4lp av ny teknik. Det \u00f6vergripande m\u00e5let med utbytet \u00e4r att utveckla automatiserade metoder f\u00f6r \u00f6vervakning och f\u00f6rvaltning av ekosystem, vilket \u00e4r avg\u00f6rande f\u00f6r att n\u00e5 m\u00e5len f\u00f6r h\u00e5llbar utveckling i Agenda 2030.\r\n\r\nF\u00f6rv\u00e4ntade effekter och resultat:\r\nEtt nytt samarbete mellan SLU och Mila kommer att etableras, och nya gemensamt forskningsprojekt kommer att initieras. Forskargruppen p\u00e5 Mila ska bidra till utveckling av automatisering av datainsamling och slutledning med hj\u00e4lp av maskininl\u00e4rning, med direkt relevans f\u00f6r p\u00e5g\u00e5ende l\u00e5ngsiktig forskning och milj\u00f6analysuppdrag vid SLU. Vetenskapliga r\u00e5d baserade p\u00e5 AI-genererade insikter kommer att utvecklas, s\u00e4rskilt inom f\u00f6rvaltning av marina ekosystem. Samarbetet f\u00f6rv\u00e4ntas p\u00e5 ett l\u00e4ngre plan leda till nya, st\u00f6rre internationella forsknings- och utvecklingsprojekt.\r\n\r\nUppl\u00e4gg och genomf\u00f6rande:\r\nSLU-teamet kommer att g\u00f6ra tv\u00e5 bes\u00f6k i Mila under 2023, i februari och september/oktober. Under det f\u00f6rsta bes\u00f6ket kommer projektdeltagarna att brainstorma kring gemensamma intressen och utifr\u00e5n det initiera ett par nya, gemensamma projekt. I det andra m\u00f6tet kommer projektets framsteg att presenteras och en strategi f\u00f6r ett st\u00e4rkt l\u00e5ngsiktigt samarbete (forskningsans\u00f6kningar/g\u00e4stprofessurer/personalutbyte) diskuteras. Genom projekten kommer information till nyckelpersoner vid SLU att f\u00e5 l\u00f6pande information om projektets resultat.",
+        "projectAbstractEn": "Purpose and goal:\r\nThe staff exchange will establish contacts between SLU and Mila (Montreal/Quebec), a world leading research organization in AI. The contact person at Mila leads a group focusing on climate change AI, which encompasses societal solutions for mitigating and adapting to climate change with the help of new technologies. The overarching goal of the exchange is to develop automated methods for ecosystem monitoring and management, which is paramount for reaching the sustainable development goals of Agenda 2030.\r\n\r\nExpected results and effects:\r\nA new collaboration between SLU and Mila will be established, and new joint research projects will be initiated. The research group at Mila will contribute to development of  automation of ecosystem data collection and inference using machine learning, with direct relevance to ongoing long-term research and commissions at SLU. Scientific advice based on AI generated insights will developed, particularly within marine ecosystem management. The collaboration will lead to new, larger international research and development projects.\r\n\r\nApproach and implementation:\r\nThe SLU team will perform two visits to Mila during 2023, in February and September/October. In the first visit, project participants will brainstorm around common interest and based on that initiate of a couple of new, joint  projects. In the second meeting, the project progress will be presented, and a strategy for a strengthened long-term collaboration (research applications / guest professorships / staff exchange) will be discussed. Throughout the projects, key persons at SLU will be informed continuously about the progress.",
+        "projectStartDate": "2022-12-01 00:00:00",
+        "projectEndDate": "2023-12-01 00:00:00",
+        "coordinatingOrganisationId": "202100-2817",
+        "coordinatingOrganisationNameSv": "Sveriges lantbruksuniversitet",
+        "coordinatingOrganisationNameEn": "Swedish University of Agricultural Sciences",
+        "coordinatingOrganisationTypeOfOrganisationSv": "Universitet",
+        "coordinatingOrganisationTypeOfOrganisationEn": "University",
+        "fundingOrganisationId": "202100-5216",
+        "fundingOrganisationNameSv": "Vinnova",
+        "fundingOrganisationNameEn": "Vinnova",
+        "fundingOrganisationTypeOfOrganisationSv": "Stat, regioner, kommuner, f\u00f6rsamlingar",
+        "fundingOrganisationTypeOfOrganisationEn": "Governmental",
+        "fundingsSek": 363000,
+        "fundingYear": "2022",
+        "fundingStartDate": "2022-01-01",
+        "fundingEndDate": "2022-12-31",
+        "typeOfAwardId": 1,
+        "typeOfAwardDescrSv": "Projektbidrag",
+        "typeOfAwardDescrEn": "Project grant",
+        "updatedDate": null,
+        "loadedDate": "Nov 16 2022 10:55PM",
+        "peopleList": [
+            {
+                "personId": "53898",
+                "fullName": "Jonas Hentati Sundberg",
+                "orcId": "0000-0002-3201-9262",
+                "roleEn": "Principal Investigator",
+                "roleSv": "Projektledare",
+                "gender": "Male"
+            }
+        ],
+        "scbs": [
+            {
+                "scb5Id": "10611",
+                "scb5NameSv": "Ekologi",
+                "scb5NameEn": "Ecology",
+                "scb3Id": "106",
+                "scb3NameSv": "Biologi (Medicinska till\u00e4mpningar under 3 och lantbruksvetenskapliga under 4)",
+                "scb3NameEn": "Biological Sciences\u00a0\u00a0(Medical to be 3 and Agricultural to be 4)",
+                "scb1Id": "1",
+                "scb1NameSv": "Naturvetenskap",
+                "scb1NameEn": "Natural Sciences"
+            },
+            {
+                "scb5Id": "40107",
+                "scb5NameSv": "Fisk- och akvakulturforskning",
+                "scb5NameEn": "Fish and Aquacultural Science",
+                "scb3Id": "401",
+                "scb3NameSv": "Jordbruksvetenskap",
+                "scb3NameEn": "Agriculture, Forestry and Fisheries",
+                "scb1Id": "4",
+                "scb1NameSv": "Lantbruksvetenskap och veterin\u00e4rmedicin",
+                "scb1NameEn": "Agricultural and Veterinary Sciences"
+            }
+        ],
+        "score": 0.05210492577158034
+    }
+]

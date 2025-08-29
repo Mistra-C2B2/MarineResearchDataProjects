@@ -1,0 +1,39 @@
+[
+{
+"search_id":"marine_2023_2025",
+"payload":[{   
+   "searchText": "marine",
+   "year[]": ["2023","2024","2025"]}]
+},{
+"search_id":"scb40107_2023_2025",
+"payload":[{
+    "scbIds[]": "40107",
+    "year[]": ["2023","2024","2025"]}]
+},{
+"search_id":"baltic_2023_2025",
+"payload":[{   
+   "searchText": "baltic",
+   "year[]": ["2023","2024","2025"]}]
+},{
+"search_id":"offshore_2023_2025",
+"payload":[{   
+   "searchText": "offshore",
+   "year[]": ["2023","2024","2025"]}]
+},{
+"search_id":"benthic_2023_2025",
+"payload":[{   
+   "searchText": "benthic",
+   "year[]": ["2023","2024","2025"]}]
+},{
+"search_id":"kattegatt_2023_2025",
+"payload":[{   
+   "searchText": "kattegatt",
+   "year[]": ["2023","2024","2025"]}]
+},{
+"search_id":"skagerak_2023_2025",
+"payload":[{   
+   "searchText": "skagerak",
+   "year[]": ["2023","2024","2025"]}]
+}
+]
+

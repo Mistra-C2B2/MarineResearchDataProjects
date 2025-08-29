@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>The C2B2-relevant list of research projects</title>
+</head>
+<body>
+    <div class="fixed">
+    <div class="header">
+        <div class="left-section">
+            <h1>The C2B2 list of research projects.</h1>
+        </div>
+        <div class="right-section">
+            <div id="expandButton">Expand  </div> 
+			<div id="collapseButton">Collapse  </div><div> | </div>
+            <div class="language-toggle" onclick="toggleLanguage()" data-lang="EN">EN</div>
+            <div class="language-toggle" onclick="toggleLanguage()" data-lang="SV">SV</div>
+        </div>
+    </div>
+    <div class="options">
+        <div id="project_list" class="option" onclick="selectOption('list')">
+            <svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" viewBox="0 0 512 512"><!--!Font Awesome Free 6.5.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2023 Fonticons, Inc.--><path d="M184 48H328c4.4 0 8 3.6 8 8V96H176V56c0-4.4 3.6-8 8-8zm-56 8V96H64C28.7 96 0 124.7 0 160v96H192 320 512V160c0-35.3-28.7-64-64-64H384V56c0-30.9-25.1-56-56-56H184c-30.9 0-56 25.1-56 56zM512 288H320v32c0 17.7-14.3 32-32 32H224c-17.7 0-32-14.3-32-32V288H0V416c0 35.3 28.7 64 64 64H448c35.3 0 64-28.7 64-64V288z"/>
+            </svg>
+            <span id="project_list_heading">Project List</span>
+        </div>
+        <div id="project_info" class="option" onclick="selectOption('about')">
+            <svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" viewBox="0 0 24 24">
+                <path d="M21 0H3C1.34 0 0 1.34 0 3v18c0 1.66 1.34 3 3 3h18c1.66 0 3-1.34 3-3V3c0-1.66-1.34-3-3-3zm0 21c0 .55-.45 1-1 1H4c-.55 0-1-.45-1-1V3c0-.55.45-1 1-1h16c.55 0 1 .45 1 1v18zM15 4v2H9V4h6zm0 4v2H9V8h6zm0 4v2H9v-2h6z"/>
+            </svg>
+            <span id="about_list_heading">About the list</span>
+        </div>
+        <div id="search_tips" class="option" onclick="selectOption('tips')">
+            <svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" viewBox="0 0 24 24">
+                <path d="M21 0H3C1.34 0 0 1.34 0 3v18c0 1.66 1.34 3 3 3h18c1.66 0 3-1.34 3-3V3c0-1.66-1.34-3-3-3zm0 21c0 .55-.45 1-1 1H4c-.55 0-1-.45-1-1V3c0-.55.45-1 1-1h16c.55 0 1 .45 1 1v18zM15 4v2H9V4h6zm0 4v2H9V8h6zm0 4v2H9v-2h6z"/>
+            </svg>
+            <span id="tips_list_heading">Search tips</span>
+        </div>
+    </div>
+	</div>
+    
+    <div class="project-container" id="projects-list"></div>
+    <script src="scripts.js"></script>
+</body>
+</html>

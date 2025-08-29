@@ -1,0 +1,73 @@
+<html>
+<head>
+</head>
+
+<body>
+
+<div id="demo">
+
+</div>
+
+
+<script language="JavaScript" type="text/javascript">
+// to make each element collapsible
+    <!--
+     function collapsible(theID,imageID) {
+          var elemnt = document.getElementById(theID);
+          var imageObject =document.getElementById(imageID);
+          if(elemnt.style.display == 'block') {
+               elemnt.style.display ='none';
+               imageObject.src='arrow-right-01-512.png';
+           }
+           else{
+           elemnt.style.display ='block';
+           imageObject.src='arrow_down.png';
+           }
+ 
+    }
+    // -->
+    </script>
+
+
+<script>
+// Read data from output.json, format and put in getElementById("demo").
+
+const xmlhttp = new XMLHttpRequest();
+
+xmlhttp.onload = function() {
+  const resultList = JSON.parse(this.responseText);
+  
+  let text = "<h2>Preview of SweCRIS projects for C2B2</h2>"
+
+  //for (let x = 0; x < 4; x++)  {
+  for (let x in resultList)  {
+    
+	let rlx = resultList[x];
+    let h = x + ":  " + rlx.projectTitleEn;
+	let scbs = rlx.scbs;
+	
+	let desc = "";
+	desc += "<p>";
+	for (let scbIdx in scbs) {
+	    desc += `<b>${scbs[scbIdx].scb5Id}</b>: ${scbs[scbIdx].scb5NameEn}, `; 
+	}
+	desc += "</p>";
+	desc += "<p>" + rlx.projectTitleSv + "</p>";
+	desc += "<p>" + rlx.projectId + ", " + rlx.fundingYear + ", " + rlx.coordinatingOrganisationNameSv + "</p>";
+	desc += "<p>" + rlx.projectAbstractSv + "</p>";
+	desc += "<p>" + rlx.projectAbstractEn + "</p>";
+	
+	text += `<a href="javascript:collapsible('instance${x}','ID${x}')"><IMG id='ID${x}' SRC='arrow-right-01-512.png' alt='Expand / Collaspe Section' title='Expand / Collaspe' width=10 height=10 /> ${h} <br/></a>`;
+    text += `<div id='instance${x}' name='instancename' style='overflow:hidden;display:none;margin-left:30px; margin-top:20px;'>${desc}</div>`;
+  }	
+  document.getElementById("demo").innerHTML = text;
+}
+xmlhttp.open("GET", "output.json");
+xmlhttp.send();
+
+</script>  
+  
+<br/>
+
+	    
+</body></html>
